@@ -1,16 +1,18 @@
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
-import locale
 from pathlib import Path
 import requests
+
+def replace_all(text, dic):
+    for i, j in dic.items():
+        text = text.replace(i, j)
+    return text
 
 def parse():
     url = 'https://luckau.de/de/buergerportal/stadtentwicklung/klima-und-umwelt.html'
     r = requests.get(url)
     soup = BeautifulSoup(r.text, 'html.parser')
-
-    locale.setlocale(locale.LC_TIME, "de_DE")
 
     fg = FeedGenerator()
     fg.id(url)
@@ -20,12 +22,27 @@ def parse():
     fg.description('Meldungen aus der Stadtentwicklung zu Klima und Umwelt')
 
     try:
+        date_replace_mapping = {
+            "Januar": "01",
+            "Februar": "02",
+            "März": "03",
+            "April": "04",
+            "Mai": "05",
+            "Juni": "06",
+            "Juli": "07",
+            "August": "08",
+            "September": "09",
+            "Oktober": "10",
+            "November": "11",
+            "Dezember": "12",
+        }
+
         # Aktuelles
         container = soup.find(id='article_6340')
         for headline in container.find_all('h2'):
             entry_title = headline.get_text()
-            pub_date_str = headline.next_sibling.get_text()
-            pub_date = datetime.strptime(pub_date_str, 'Veröffentlichungsdatum %d. %B %Y').replace(tzinfo=timezone.utc)
+            pub_date_str = replace_all(headline.next_sibling.get_text(), date_replace_mapping)
+            pub_date = datetime.strptime(pub_date_str, 'Veröffentlichungsdatum %d. %m %Y').replace(tzinfo=timezone.utc)
             description = headline.next_sibling.next_sibling.get_text()
 
             fe = fg.add_entry()
