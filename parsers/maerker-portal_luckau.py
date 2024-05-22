@@ -47,6 +47,12 @@ def parse():
                     fe.link(href=entry_url)
                     fe.pubDate(pub_date)
                     fe.description(description)
+                    print("Added entry \n" \
+                          f"> URL: {entry_url} \n" \
+                          f"> title: {entry_title} \n" \
+                          f"> date: {pub_date} \n" \
+                          f"> {description} \n"
+                          )
     except Exception as e:
         print('Error while creating rss feed:', e)
 
