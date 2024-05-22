@@ -65,7 +65,7 @@ def parse():
     current_file_path = Path(__file__).parent.resolve()
     rss_path = current_file_path.parent / 'generated-rss'
     rss_path.mkdir(parents=True, exist_ok=True)
-    fg.rss_file(rss_path / 'maerker-protal_luckau.xml')
+    fg.rss_file(rss_path / 'maerker-portal_luckau.xml')
 
 
 if __name__ == "__main__":
