@@ -30,6 +30,8 @@ jobs:
         run: python parsers/buergerportal-stadtentwicklung-konzepte.py
       - name: Parse 'Maerker Portal'
         run: python parsers/maerker-portal_luckau.py
+      - name: Parse 'Kultur & Stadtleben - Veranstatltungskalender'
+        run: python parsers/kultur_stadtleben-veranstaltungskalender.py
       - name: Publish
         uses: s0/git-publish-subdir-action@develop
         env:
