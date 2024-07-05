@@ -33,6 +33,12 @@ def parse():
             fe.link(href=entry_url)
             fe.pubDate(datetime.strptime(pub_date, '%d.%m.%Y').replace(tzinfo=timezone.utc))
 
+            print("Added entry \n" \
+                  f"> URL: {entry_url} \n" \
+                  f"> title: {entry_title} \n" \
+                  f"> date: {pub_date} \n"
+                  )
+
             paragraphs = article.find_all('p')
             if len(paragraphs) > 1:
                 fe.description(paragraphs[1].string)

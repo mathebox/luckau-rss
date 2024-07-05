@@ -52,6 +52,12 @@ def parse():
             fe.pubDate(pub_date)
             fe.description(description)
 
+            print("Added entry \n" \
+                  f"> URL: {url} \n" \
+                  f"> title: {entry_title} \n" \
+                  f"> date: {pub_date} \n"
+                  )
+
         # Ältere Meldungen
         for older_container in container.find_all('div', class_='accordionWrapper'):
             entry_title = older_container.find('h3').get_text()
@@ -62,6 +68,13 @@ def parse():
             fe.title(entry_title)
             fe.link(href=url)
             fe.description(description)
+
+            print("Added entry \n" \
+                  f"> URL: {url} \n" \
+                  f"> title: {entry_title} \n" \
+                  f"> date: {pub_date} \n"
+                  )
+
     except:
         print("Error while creating rss feed")
 

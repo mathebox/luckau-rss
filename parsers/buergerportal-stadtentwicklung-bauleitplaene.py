@@ -24,6 +24,12 @@ def parse():
                 fe.id(entry_title)
                 fe.title(entry_title)
                 fe.link(href=url)
+
+                print("Added entry \n" \
+                    f"> URL: {url} \n" \
+                    f"> title: {entry_title} \n" \
+                    )
+
     except:
         print("Error while creating rss feed")
 
