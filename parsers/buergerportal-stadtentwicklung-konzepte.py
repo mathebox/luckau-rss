@@ -30,8 +30,9 @@ def parse():
                       f"> title: {entry_title} \n" \
                       )
 
-    except:
-        print("Error while creating rss feed")
+    except Exception as e:
+        print('Error while creating rss feed')
+        print('> ', e)
 
     if len(fg.entry()) < 1:
         fe = fg.add_entry()

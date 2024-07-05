@@ -42,8 +42,9 @@ def parse():
             paragraphs = article.find_all('p')
             if len(paragraphs) > 1:
                 fe.description(paragraphs[1].string)
-    except:
-        print("Error while creating rss feed")
+    except Exception as e:
+        print('Error while creating rss feed')
+        print('> ', e)
 
     if len(fg.entry()) < 1:
         fe = fg.add_entry()
