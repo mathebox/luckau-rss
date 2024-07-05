@@ -41,9 +41,9 @@ def parse():
         container = soup.find(id='article_6340')
         for headline in container.find_all('h2'):
             entry_title = headline.get_text()
-            pub_date_str = replace_all(headline.next_sibling.get_text(), date_replace_mapping)
+            pub_date_str = replace_all(headline.find_next_sibling('h5').get_text(), date_replace_mapping)
             pub_date = datetime.strptime(pub_date_str, 'Veröffentlichungsdatum %d. %m %Y').replace(tzinfo=timezone.utc)
-            description = headline.next_sibling.next_sibling.get_text()
+            description = headline.find_next_sibling('p').get_text()
 
             fe = fg.add_entry()
             fe.id(entry_title)
