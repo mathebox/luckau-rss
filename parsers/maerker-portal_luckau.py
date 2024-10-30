@@ -24,18 +24,18 @@ def parse():
                 container = article.find('div', class_='hinweis')
 
                 content_container = container.find('div', class_='eightcol')
-                entry_title = content_container.find('h3').string.strip()
+                entry_title = content_container.find('h3').getText().strip()
                 
                 id_container = content_container.find('p', class_='small')
                 for strong in id_container.find_all('strong'):
-                    if strong.string == 'ID:':
-                        entry_id = strong.next_sibling.string.strip()
+                    if strong.getText() == 'ID:':
+                        entry_id = strong.next_sibling.getText().strip()
                 entry_url = f"https://maerker.brandenburg.de/bb/luckau?_id={entry_id}"
 
                 description = id_container.next_sibling.getText().strip()
 
                 metacontent_container = container.find('div', class_='last')
-                pub_date_str = metacontent_container.find('strong').string.strip()
+                pub_date_str = metacontent_container.find('strong').getText().strip()
                 pub_date = datetime.strptime(pub_date_str, '%d.%m.%Y, %H:%M Uhr').replace(tzinfo=timezone.utc)
 
                 location = metacontent_container.find('p').contents[0].getText().strip()

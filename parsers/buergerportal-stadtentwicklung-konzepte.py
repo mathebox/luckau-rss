@@ -19,7 +19,7 @@ def parse():
     try:
         for item in soup.find_all('h3'):
             if link := item.find('a'):
-                entry_title = link.string
+                entry_title = link.getText()
                 fe = fg.add_entry()
                 fe.id(entry_title)
                 fe.title(entry_title)

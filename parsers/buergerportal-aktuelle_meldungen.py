@@ -19,11 +19,11 @@ def parse():
     try:
         container = soup.find(id='article_aktuelle-meldungen')
         for article in container.find_all('article'):
-            pub_date = article.find('p').string
+            pub_date = article.find('p').getText()
             h2 = article.find('h2')
             h2_a = h2.find('a')
             headline = h2_a or h2
-            entry_title = headline.string.strip()
+            entry_title = headline.getText().strip()
             entry_url = article.find('a').get('href')
             entry_url = entry_url if entry_url.startswith('https://luckau.de') else 'https://luckau.de' + entry_url
 
@@ -41,7 +41,7 @@ def parse():
 
             paragraphs = article.find_all('p')
             if len(paragraphs) > 1:
-                fe.description(paragraphs[1].string)
+                fe.description(paragraphs[1].getText())
     except Exception as e:
         print('Error while creating rss feed')
         print('> ', e)
