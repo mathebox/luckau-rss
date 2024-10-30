@@ -39,9 +39,12 @@ def parse():
 
         # Aktuelles
         container = soup.find(id='article_6340')
-        for headline in container.find_all('h2'):
+        for pub_date_container in container.find_all('h5'):
+            headline = pub_date_container.find_previous_sibling()
+            if headline is None or headline.name not in ['h2', 'h3']:
+                continue
             entry_title = headline.get_text()
-            pub_date_str = replace_all(headline.find_next_sibling('h5').get_text(), date_replace_mapping)
+            pub_date_str = replace_all(pub_date_container.get_text(), date_replace_mapping)
             pub_date = datetime.strptime(pub_date_str, 'Veröffentlichungsdatum %d. %m %Y').replace(tzinfo=timezone.utc)
             description = headline.find_next_sibling('p').get_text()
 
