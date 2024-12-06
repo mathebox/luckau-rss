@@ -1,0 +1,3467 @@
+BEGIN:VCALENDAR
+DTSTART:20240101T000000
+SUMMARY:Veranstaltungen in Luckau
+BEGIN:VEVENT
+SUMMARY:Luckau Spandau Deutschland - Eine Ausstellung zur Revolution 1848/
+ 49
+DTSTART;VALUE=DATE:20231119
+DTEND;VALUE=DATE:20240225
+LOCATION:Niederlausitz-Museum
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ luckau-spandau-deutschland-eine-ausstellung-zur-revolution-1848-49.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240105T190000
+DTEND;TZID=Europe/Berlin:20240105T223000
+LOCATION:Gasthaus Raunigk\, 15926 Heideblick OT Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-7.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240106T190000
+DTEND;TZID=Europe/Berlin:20240106T223000
+LOCATION:Gasthaus Raunigk\, 15926 Heideblick OT Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-8.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gedenken zum Todestag von Rosa Luxemburg und Karl Liebknecht
+DTSTART;TZID=Europe/Berlin:20240113T100000
+DTEND;TZID=Europe/Berlin:20240113T120000
+LOCATION:Nordpromenade\, Zufahrt Nonnengasse am Karl-Liebknecht Denkmal\, 
+ 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gedenken-zum-todestag-von-rosa-luxemburg-und-karl-liebknecht.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neujahrskonzert des Orchesters grenzenlos
+DTSTART;TZID=Europe/Berlin:20240114T160000
+DTEND;TZID=Europe/Berlin:20240114T180000
+LOCATION:Schlossberg Luckau\, 15907 Luckau (Spreewald)
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ neujahrskonzert_des_orchesters_grenzenlos-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Innenstädte neu denken
+DTSTART;TZID=Europe/Berlin:20240118T180000
+DTEND;TZID=Europe/Berlin:20240118T200000
+LOCATION:Rathaus\, Sitzungssaal\, Am Markt 34\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ innenstaedte-neu-denken.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240119T190000
+DTEND;TZID=Europe/Berlin:20240119T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-15.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20240120T130000
+DTEND;TZID=Europe/Berlin:20240120T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240120T190000
+DTEND;TZID=Europe/Berlin:20240120T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-16.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20240124T130000
+DTEND;TZID=Europe/Berlin:20240124T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag der Umweltbildung
+DTSTART;TZID=Europe/Berlin:20240126T100000
+DTEND;TZID=Europe/Berlin:20240126T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_der_umweltbildung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240126T190000
+DTEND;TZID=Europe/Berlin:20240126T223000
+LOCATION:Landhaus Duben\, 15926 Luckau OT Duben
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-9.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eduard Zimmermann in der Zeit der Revolution von 1848 -  Parlament
+ arier\, Häftling und Verurteilter - Spandau - Luckau - London
+DTSTART;TZID=Europe/Berlin:20240126T190000
+DTEND;TZID=Europe/Berlin:20240126T210000
+LOCATION:Kulturkirche Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ eduard-zimmermann-in-der-zeit-der-revolution-von-1848-parlamentarier-haeft
+ ling-und-verurteilter-spandau-luckau-london.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20240127T130000
+DTEND;TZID=Europe/Berlin:20240127T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das sind wir – Inclumaniac
+DTSTART;TZID=Europe/Berlin:20240127T170000
+DTEND;TZID=Europe/Berlin:20240127T190000
+LOCATION:Kulturkirche Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ das_sind_wir_inclumaniac.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240127T190000
+DTEND;TZID=Europe/Berlin:20240127T223000
+LOCATION:Landhaus Duben\, 15926 Luckau OT Duben
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-10.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Erwachen
+DTSTART;TZID=Europe/Berlin:20240128T080000
+DTEND;TZID=Europe/Berlin:20240128T100000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-erwachen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20240131T130000
+DTEND;TZID=Europe/Berlin:20240131T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welttag der Feuchtgebiete
+DTSTART;TZID=Europe/Berlin:20240202T100000
+DTEND;TZID=Europe/Berlin:20240202T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ welttag_der_feuchtgebiete.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20240203T130000
+DTEND;TZID=Europe/Berlin:20240203T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20240207T130000
+DTEND;TZID=Europe/Berlin:20240207T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fasching: Karneval der Tiere
+DTSTART;TZID=Europe/Berlin:20240208T100000
+DTEND;TZID=Europe/Berlin:20240208T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ fasching_karneval_der_tiere.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterwald im Mondschimmer
+DTSTART;TZID=Europe/Berlin:20240210T160000
+DTEND;TZID=Europe/Berlin:20240210T210000
+LOCATION:Naturwacht\, 15926 Heideblick/ Schwarzenburg
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ winterwald_im_mondschimmer.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Erwachen
+DTSTART;TZID=Europe/Berlin:20240211T080000
+DTEND;TZID=Europe/Berlin:20240211T100000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-erwachen-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liebe im Tierreich
+DTSTART;TZID=Europe/Berlin:20240214T130000
+DTEND;TZID=Europe/Berlin:20240214T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ liebe_im_tierreich.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sicher leben (nicht nur) im Alter - Enkeltrick und Co
+DTSTART;TZID=Europe/Berlin:20240215T140000
+DTEND;TZID=Europe/Berlin:20240215T160000
+LOCATION:Karche 18 A\, 15926 Luckau\, OT Karche-Zaacko
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sicher-leben-nicht-nur-im-alter-enkeltrick-und-co.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bildgestaltung mit KI (Kulturwerkstatt)
+DTSTART;TZID=Europe/Berlin:20240219T190000
+DTEND;TZID=Europe/Berlin:20240219T210000
+LOCATION:Landesgartenschau Luckau 2000 gGmbH\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ bildgestaltung_mit_ki_kulturwerkstatt_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Präsentation "Brandenburgischer Historischer Städteatlas LUCKAU"
+DTSTART;TZID=Europe/Berlin:20240221T190000
+DTEND;TZID=Europe/Berlin:20240221T210000
+LOCATION:Niederlausitz-Museum Luckau/ Kulturkirche - Klostersaal\, Nonneng
+ asse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ praesentation_brandenburgischer_historischer_staedteatlas_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niederlausitzer Kriminächte: Anna Schneider - Terminverschiebung
+DTSTART;TZID=Europe/Berlin:20240222T190000
+DTEND;TZID=Europe/Berlin:20240222T210000
+LOCATION:Gutshaus Pitschen\, 15926 Heideblick
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ niederlausitzer_kriminaechte_anna_schneider_-_terminverschiebung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundfahrt von Luckau über Potsdam nach Berlin ins Technikmuseum
+DTSTART;TZID=Europe/Berlin:20240224T080000
+DTEND;TZID=Europe/Berlin:20240224T100000
+LOCATION:Nostalgiebahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rundfahrt_von_luckau_ueber_potsdam_nach_berlin_ins_technikmuseum.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ImproPur (Improvisationstheaterabend)
+DTSTART;TZID=Europe/Berlin:20240224T190000
+DTEND;TZID=Europe/Berlin:20240224T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ impropur_improvisationstheaterabend_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timeless - Tanz kennt keine Grenzen
+DTSTART;TZID=Europe/Berlin:20240224T193000
+DTEND;TZID=Europe/Berlin:20240224T213000
+LOCATION:Schlossberg Luckau\, Nordpromenade 20
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ timeless-tanz_kennt_keine_grenzen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waldspaziergang "Winterschlaf"
+DTSTART;TZID=Europe/Berlin:20240225T120000
+DTEND;TZID=Europe/Berlin:20240225T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ waldspaziergang_winterschlaf.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240301T190000
+DTEND;TZID=Europe/Berlin:20240301T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-11.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240302T190000
+DTEND;TZID=Europe/Berlin:20240302T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-12.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOVIE NIGHT
+DTSTART;TZID=Europe/Berlin:20240302T190000
+DTEND;TZID=Europe/Berlin:20240302T210000
+LOCATION:Kulturdreieck Dahme-Spreewald\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ movie_night.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag des Artenschutzes - die "Small Five" stellen sich vor
+DTSTART;TZID=Europe/Berlin:20240303T120000
+DTEND;TZID=Europe/Berlin:20240303T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_des_artenschutzes_-_die_small_five_stellen_sich_vor.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Großer Klang und menschliche Abgründe. Aus der Geschichte der L
+ uckauer Donat-Orgel"
+DTSTART;TZID=Europe/Berlin:20240306T190000
+DTEND;TZID=Europe/Berlin:20240306T210000
+LOCATION:Kulturkirche - Klostersaal\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ grosser_klang_und_menschliche_abgruende_aus_der_geschichte_der_luckauer_do
+ nat-orgel.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaffeekränzchen
+DTSTART;TZID=Europe/Berlin:20240307T143000
+DTEND;TZID=Europe/Berlin:20240307T163000
+LOCATION:Gaststätte Raunigk
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kaffeekraenzchen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sarg für alle Fälle (Komödie)
+DTSTART;TZID=Europe/Berlin:20240308T190000
+DTEND;TZID=Europe/Berlin:20240308T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ein_sarg_fuer_alle_faelle_komoedie_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osterwerkstatt im Kinder-Kunst-Atelier
+DTSTART;TZID=Europe/Berlin:20240309T130000
+DTEND;TZID=Europe/Berlin:20240309T150000
+LOCATION:NL Musik- und Kunstschule e.V.\, Am Bahnhof 5\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ osterwerkstatt_im_kinder-kunst-atelier.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vernissage
+DTSTART;TZID=Europe/Berlin:20240309T143000
+DTEND;TZID=Europe/Berlin:20240309T163000
+LOCATION:Kulturkirche Luckau\, Nonnengasse 1 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ vernissage_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sarg für alle Fälle (Komödie)
+DTSTART;TZID=Europe/Berlin:20240309T190000
+DTEND;TZID=Europe/Berlin:20240309T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ein_sarg_fuer_alle_faelle_komoedie_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Märchenfahrten auf der Niederlausitzer Eisenbahn
+DTSTART;TZID=Europe/Berlin:20240310T090000
+DTEND;TZID=Europe/Berlin:20240310T110000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ maerchenfahrten_auf_der_niederlausitzer_eisenbahn.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Sarg für alle Fälle (Komödie)
+DTSTART;TZID=Europe/Berlin:20240310T160000
+DTEND;TZID=Europe/Berlin:20240310T183000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ein_sarg_fuer_alle_faelle_komoedie_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240315T190000
+DTEND;TZID=Europe/Berlin:20240315T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-13.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frühlingskonzert
+DTSTART;TZID=Europe/Berlin:20240316T150000
+DTEND;TZID=Europe/Berlin:20240316T170000
+LOCATION:Aula Bohnstedt-Gymnasium\, Rathausstr. 7\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ fruehlingskonzert.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krimidinner: ...und langsam schleicht der Tod heran
+DTSTART;TZID=Europe/Berlin:20240316T190000
+DTEND;TZID=Europe/Berlin:20240316T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_langsam_schleicht_der_tod_heran-14.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unser Sandmännchen im Niederlausitz-Museum
+DTSTART;VALUE=DATE:20240317
+DTEND;VALUE=DATE:20240714
+LOCATION:Niederlausitz-Museum
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ unser-sandmaennchen-im-niederlausitz-museum.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUCKI - Baby- & Kindersachenflohmarkt Luckau
+DTSTART;TZID=Europe/Berlin:20240317T090000
+DTEND;TZID=Europe/Berlin:20240317T130000
+LOCATION:LAGA-Park\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ lucki_-_baby-_kindersachenflohmarkt_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Auf dem Weg in den "Großen Krieg". Luckau und die Niederlausitz 
+ in der ersten Hälfte des 17. Jahrhunderts"
+DTSTART;TZID=Europe/Berlin:20240320T190000
+DTEND;TZID=Europe/Berlin:20240320T210000
+LOCATION:Kulturkirche - Klostersaal\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ auf_dem_weg_in_den_grossen_krieg_luckau_und_die_niederlausitz_in_der_erste
+ n_haelfte_des_17_jahrhunderts.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTour: Abendgesang im Sonnenuntergang
+DTSTART;TZID=Europe/Berlin:20240323T170000
+DTEND;TZID=Europe/Berlin:20240323T210000
+LOCATION:Gaststätte zum Wilden Eber\, 15926 Heideblick/ Schwarzenburg
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertour_abendgesang_im_sonnenuntergang.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annuntiatio Domini - Bildwerke der Verkündigung des Herrn in der 
+ Niederlausitz
+DTSTART;TZID=Europe/Berlin:20240325T190000
+DTEND;TZID=Europe/Berlin:20240325T210000
+LOCATION:Niederlausitz-Museum
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ annuntiatio-domini-bildwerke-der-verkuendigung-des-herrn-in-der-niederlaus
+ itz.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Was ist virtuelles Wasser?
+DTSTART;TZID=Europe/Berlin:20240326T100000
+DTEND;TZID=Europe/Berlin:20240326T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ was_ist_virtuelles_wasser_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostern in Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240329T100000
+DTEND;TZID=Europe/Berlin:20240329T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ostern_in_sielmanns_naturlandschaft_wanninchen-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostern in Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240330T100000
+DTEND;TZID=Europe/Berlin:20240330T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ostern_in_sielmanns_naturlandschaft_wanninchen-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonderzug zum 35. Oster-Kloster-Fest Chorin
+DTSTART;TZID=Europe/Berlin:20240330T111500
+DTEND;TZID=Europe/Berlin:20240330T131500
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sonderzug_zum_35_oster-kloster-fest_chorin.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osterfahrten auf der Niederlausitzer Eisenbahn
+DTSTART;TZID=Europe/Berlin:20240331T090500
+DTEND;TZID=Europe/Berlin:20240331T110500
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ osterfahrten_auf_der_niederlausitzer_eisenbahn.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostern in Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240331T100000
+DTEND;TZID=Europe/Berlin:20240331T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ostern_in_sielmanns_naturlandschaft_wanninchen-5.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Osterfahrten auf der Niederlausitzer Eisenbahn
+DTSTART;TZID=Europe/Berlin:20240401T090500
+DTEND;TZID=Europe/Berlin:20240401T110500
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ osterfahrten_auf_der_niederlausitzer_eisenbahn_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostern in Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240401T100000
+DTEND;TZID=Europe/Berlin:20240401T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ostern_in_sielmanns_naturlandschaft_wanninchen-6.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thementag "Plastikfrei"
+DTSTART;TZID=Europe/Berlin:20240403T100000
+DTEND;TZID=Europe/Berlin:20240403T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ thementag_plastikfrei.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbe Wahrheiten (Verwechslungskomödie)
+DTSTART;TZID=Europe/Berlin:20240412T190000
+DTEND;TZID=Europe/Berlin:20240412T223000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ halbe_wahrheiten_verwechslungskomoedie_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natur im Garten
+DTSTART;TZID=Europe/Berlin:20240413T100000
+DTEND;TZID=Europe/Berlin:20240413T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ natur_im_garten.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine kleine Kräuterkunde
+DTSTART;TZID=Europe/Berlin:20240413T130000
+DTEND;TZID=Europe/Berlin:20240413T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ eine_kleine_kraeuterkunde.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbe Wahrheiten (Verwechslungskomödie)
+DTSTART;TZID=Europe/Berlin:20240413T190000
+DTEND;TZID=Europe/Berlin:20240413T223000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ halbe_wahrheiten_verwechslungskomoedie_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sechs-Seen-Tour
+DTSTART;TZID=Europe/Berlin:20240414T100000
+DTEND;TZID=Europe/Berlin:20240414T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sechs-seen-tour-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulpenfest in Luckau
+DTSTART;TZID=Europe/Berlin:20240414T100000
+DTEND;TZID=Europe/Berlin:20240414T180000
+LOCATION:Stadtpark Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tulpenfest_in_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulpenfest\, „Triple LLL“ und Klimaanpassung in Luckau
+DTSTART;TZID=Europe/Berlin:20240414T133000
+DTEND;TZID=Europe/Berlin:20240414T153000
+LOCATION:Luckau\, LAGA-Park\, Südpromenade 16
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ auftaktveranstaltung-erstellung-des-1-klimaanpassungskonzept.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trauerspaziergang
+DTSTART;TZID=Europe/Berlin:20240416T200000
+DTEND;TZID=Europe/Berlin:20240416T220000
+LOCATION:Erinnerungsbeet im Rosengarten\, Nordpromenade 20
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ trauerspaziergang.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Ratswaage und Kaufhalle - Wiederentdeckte Gebäudereste vom Markt
+ platz Luckau"
+DTSTART;TZID=Europe/Berlin:20240417T190000
+DTEND;TZID=Europe/Berlin:20240417T210000
+LOCATION:Kulturkirche - Klostersaal\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ratswaage_und_kaufhalle-wiederentdeckte_gebaeudereste_vom_marktplatz_lucka
+ u.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbe Wahrheiten (Verwechslungskomödie)
+DTSTART;TZID=Europe/Berlin:20240419T190000
+DTEND;TZID=Europe/Berlin:20240419T223000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ halbe_wahrheiten_verwechslungskomoedie_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonderzug "Böhmerland" nach Decin und Usti nad Ladem
+DTSTART;TZID=Europe/Berlin:20240420T060000
+DTEND;TZID=Europe/Berlin:20240420T080000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sonderzug_boehmerland_nach_decin_und_usti_nad_ladem.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wald im Wandel
+DTSTART;TZID=Europe/Berlin:20240420T140000
+DTEND;TZID=Europe/Berlin:20240420T163000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wald_im_wandel.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbe Wahrheiten (Verwechslungskomödie)
+DTSTART;TZID=Europe/Berlin:20240420T190000
+DTEND;TZID=Europe/Berlin:20240420T223000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ halbe_wahrheiten_verwechslungskomoedie_-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pendelfahrten zur Leistungsschau Luckau
+DTSTART;TZID=Europe/Berlin:20240427T090500
+DTEND;TZID=Europe/Berlin:20240427T110500
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ pendelfahrten_zur_leistungsschau_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niederlausitzer Leistungsschau Luckau
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240428
+LOCATION:Landesgartenschau Luckau 2000 gGmbH\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ niederlausitzer_leistungsschau_luckau-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Blaulichttag und 10 Jahre Floriansdorf KiEZ Frauensee
+DTSTART;TZID=Europe/Berlin:20240427T110000
+DTEND;TZID=Europe/Berlin:20240427T130000
+LOCATION:Weg zum Frauensee 1\, 15754 Heidesee
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 3_blaulichttag_und_10_jahre_floriansdorf_kiez_frauensee.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eine kleine Kräuterkunde
+DTSTART;TZID=Europe/Berlin:20240428T140000
+DTEND;TZID=Europe/Berlin:20240428T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ eine_kleine_kraeuterkunde-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maibaumaufstellen in Luckau
+DTSTART;TZID=Europe/Berlin:20240430T160000
+DTEND;TZID=Europe/Berlin:20240430T180000
+LOCATION:Luckau\, Marktplatz\, Am Markt 35
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ maibaumaufstellen-in-luckau24.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auf dem Wiedehopf-Weg - Radeln für den Naturschutz
+DTSTART;TZID=Europe/Berlin:20240501T130000
+DTEND;TZID=Europe/Berlin:20240501T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ auf_dem_wiedehopf-weg_-_radeln_fuer_den_naturschutz.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonderzug zum Eisenbahnfest Wittenberge
+DTSTART;TZID=Europe/Berlin:20240504T073000
+DTEND;TZID=Europe/Berlin:20240504T093000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sonderzug_zum_eisenbahnfest_wittenberge.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:23. LUCKAUER GARTEN- UND PFLANZENMARKT
+DTSTART;TZID=Europe/Berlin:20240504T080000
+DTEND;TZID=Europe/Berlin:20240504T130000
+LOCATION:Laga-Parkplatz\, Südpromenade
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 23-luckauer-garten-und-pflanzenmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sechs-Seen-Tour
+DTSTART;TZID=Europe/Berlin:20240504T100000
+DTEND;TZID=Europe/Berlin:20240504T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sechs-seen-tour-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Von Heiterkeit und Melancholie - Tänze und Lieder der Renaissance
+DTSTART;TZID=Europe/Berlin:20240505T160000
+DTEND;TZID=Europe/Berlin:20240505T180000
+LOCATION:Dorfkirche Zieckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ von_heiterkeit_und_melancholie-taenze_und_lieder_der_renaissance.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biergarten Männertag
+DTSTART;TZID=Europe/Berlin:20240509T100000
+DTEND;TZID=Europe/Berlin:20240509T120000
+LOCATION:15926 Luckau\, Schlabendorf am See 15
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ biergarten_maennertag.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kulturdampf 2024
+DTSTART;TZID=Europe/Berlin:20240510T180000
+DTEND;TZID=Europe/Berlin:20240510T200000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kulturdampf_2024.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geheimnisvolles Moor
+DTSTART;TZID=Europe/Berlin:20240511T100000
+DTEND;TZID=Europe/Berlin:20240511T130000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ geheimnisvolles_moor.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kulturdampf 2024
+DTSTART;TZID=Europe/Berlin:20240511T100000
+DTEND;TZID=Europe/Berlin:20240511T120000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kulturdampf_2024_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jugendliebe im Frühling auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240511T200000
+DTEND;TZID=Europe/Berlin:20240511T220000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ jugendliebe_im_fruehling_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kulturdampf 2024
+DTSTART;TZID=Europe/Berlin:20240512T100000
+DTEND;TZID=Europe/Berlin:20240512T120000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kulturdampf_2024_2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert zum Muttertag
+DTSTART;TZID=Europe/Berlin:20240512T150000
+DTEND;TZID=Europe/Berlin:20240512T170000
+LOCATION:Nikolaikirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konzert_zum_muttertag.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Luckauer Häuser mit Geschichte"
+DTSTART;TZID=Europe/Berlin:20240515T183000
+DTEND;TZID=Europe/Berlin:20240515T203000
+LOCATION:Treffpunkt:  Kulturkirche Luckau\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ luckauer_haeuser_mit_geschichte.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrradcodierung auf dem Wochenmarkt
+DTSTART;TZID=Europe/Berlin:20240516T100000
+DTEND;TZID=Europe/Berlin:20240516T140000
+LOCATION:Luckau\, Marktplatz\, Am Markt 35
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ fahrradcodierung-auf-dem-wochenmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTour: Wildkräutertour
+DTSTART;TZID=Europe/Berlin:20240518T093000
+DTEND;TZID=Europe/Berlin:20240518T120000
+LOCATION:Feuerwehrhaus\, 15926 Bergen
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertour_wildkraeutertour.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wildbienen-Bestimmungskurs
+DTSTART;TZID=Europe/Berlin:20240518T100000
+DTEND;TZID=Europe/Berlin:20240518T140000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wildbienen-bestimmungskurs.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internationaler Museumstag im Niederlausitz-Museum
+DTSTART;TZID=Europe/Berlin:20240519T100000
+DTEND;TZID=Europe/Berlin:20240519T170000
+LOCATION:Kulturkirche\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ internationaler-museumstag-im-niederlausitz-museum.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deutscher Mühlentag am Pfingstmontag
+DTSTART;TZID=Europe/Berlin:20240520T100000
+DTEND;TZID=Europe/Berlin:20240520T160000
+LOCATION:Kultur- und Heimatverein Fürstlich Drehna e.V.\, 15926 Luckau OT
+  Fürstlich Drehna
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ deutscher_muehlentag_am_pfingstmontag.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ehemaligentreffen der Oberschule "An der Schanze"
+DTSTART;TZID=Europe/Berlin:20240524T140000
+DTEND;TZID=Europe/Berlin:20240524T210000
+LOCATION:Oberschule "An der Schanze"\, An der Schanze 44\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ehemaligentreffen-der-oberschule-an-der-schanze.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Gott des Gemetzels
+DTSTART;TZID=Europe/Berlin:20240525T190000
+DTEND;TZID=Europe/Berlin:20240525T203000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ der_gott_des_gemetzels-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag der Natur und des Handwerks
+DTSTART;TZID=Europe/Berlin:20240526T100000
+DTEND;TZID=Europe/Berlin:20240526T180000
+LOCATION:Höllberghof\, 15926 Heideblick OT Langengrassau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_der_natur_und_des_handwerks-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blasmusik auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240526T140000
+DTEND;TZID=Europe/Berlin:20240526T160000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ blasmusik_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kindermusiktheater "Sechse kommen durch die Welt"
+DTSTART;TZID=Europe/Berlin:20240526T160000
+DTEND;TZID=Europe/Berlin:20240526T180000
+LOCATION:Turnhalle der Grundschule "R. Luxemburg"\, Matschenzstr. 12\, Luc
+ kau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kindermusiktheater_sechse_kommen_durch_die_welt.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kindermusiktheater "Sechse kommen durch die Welt"
+DTSTART;TZID=Europe/Berlin:20240526T160000
+DTEND;TZID=Europe/Berlin:20240526T180000
+LOCATION:Turnhalle der Grundschule Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kindermusiktheater_sechse_kommen_durch_die_welt_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Gott des Gemetzels
+DTSTART;TZID=Europe/Berlin:20240526T180000
+DTEND;TZID=Europe/Berlin:20240526T193000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ der_gott_des_gemetzels-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trauerwandern mit dem Hospiz Luckau
+DTSTART;TZID=Europe/Berlin:20240528T200000
+DTEND;TZID=Europe/Berlin:20240528T220000
+LOCATION:Laga Parkplatz\, Südpromenade 15
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ trauerwandern_mit_dem_hospiz_luckau_3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wochenmarkt mit Marktrallye in Luckau
+DTSTART;TZID=Europe/Berlin:20240530T073000
+DTEND;TZID=Europe/Berlin:20240530T113000
+LOCATION:Luckau\, Marktplatz\, Am Markt 35
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wochenmarkt-mit-marktrallye-in-luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kindertagsfete auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240602T150000
+DTEND;TZID=Europe/Berlin:20240602T170000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kindertagsfete_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Hospizlauf
+DTSTART;TZID=Europe/Berlin:20240607T180000
+DTEND;TZID=Europe/Berlin:20240607T200000
+LOCATION:Ev. Hospiz Luckau\, Schanzweg 5
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 5_hospizlauf.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foto-Workshop: Natur im Fokus
+DTSTART;TZID=Europe/Berlin:20240608T090000
+DTEND;TZID=Europe/Berlin:20240608T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ foto-workshop_natur_im_fokus.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kultur-Herz Open-Air
+DTSTART;VALUE=DATE:20240608
+DTEND;VALUE=DATE:20240609
+LOCATION:Laga-Park Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kultur-herz_open-air-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sechs-Seen-Tour
+DTSTART;TZID=Europe/Berlin:20240609T100000
+DTEND;TZID=Europe/Berlin:20240609T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sechs-seen-tour-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Familienfest im Hort "Freundetreff" in Luckau
+DTSTART;TZID=Europe/Berlin:20240615T100000
+DTEND;TZID=Europe/Berlin:20240615T120000
+LOCATION:Jahnstraße 9
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ familienfest_im_hort_freundetreff_in_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foto-Workshop für Kids
+DTSTART;TZID=Europe/Berlin:20240615T110000
+DTEND;TZID=Europe/Berlin:20240615T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ foto-workshop_fuer_kids.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cahnsdorfer Feuerwehr Dorffest
+DTSTART;TZID=Europe/Berlin:20240615T193000
+DTEND;TZID=Europe/Berlin:20240615T213000
+LOCATION:Feuerwehrplatz\, Cahnsdorf 182
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ cahnsdorfer_feuerwehr_dorffest.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Luckauer Altstadtrennen
+DTSTART;TZID=Europe/Berlin:20240616T090000
+DTEND;TZID=Europe/Berlin:20240616T160000
+LOCATION:Luckauer Innenstadt
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 2_luckauer_altstadtrennen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cahnsdorfer Feuerwehr Dorffest
+DTSTART;TZID=Europe/Berlin:20240616T103000
+DTEND;TZID=Europe/Berlin:20240616T123000
+LOCATION:Feuerwehrplatz\, Cahnsdorf 182
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ cahnsdorfer_feuerwehr_dorffest_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kreispokallauf – Jugendfeuerwehren aus LDS wetteifern in Luckau
+DTSTART;TZID=Europe/Berlin:20240622T080000
+DTEND;TZID=Europe/Berlin:20240622T150000
+LOCATION:Laga-Park\, Südpromenade 23\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kreispokallauf-jugendfeuerwehren-aus-lds-wetteifern-in-luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Musikschulen öffnen Kirchen
+DTSTART;TZID=Europe/Berlin:20240622T153000
+DTEND;TZID=Europe/Berlin:20240622T173000
+LOCATION:Dorfkirche Bornsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ musikschulen_oeffnen_kirchen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Gott des Gemetzels
+DTSTART;TZID=Europe/Berlin:20240622T190000
+DTEND;TZID=Europe/Berlin:20240622T203000
+LOCATION:Familie Schmid\, 15926 Heideblick OT Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ der_gott_des_gemetzels-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rock meets Klassik - Legenden auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240622T200000
+DTEND;TZID=Europe/Berlin:20240622T220000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rock_meets_klassik-legenden_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ranger-Tour: Hochzeitsball der Glühwürmchen
+DTSTART;TZID=Europe/Berlin:20240622T220000
+DTEND;TZID=Europe/Berlin:20240622T233000
+LOCATION:Fürstlich Drehna\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ranger-tour_hochzeitsball_der_gluehwuermchen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTour: Zu den fürstlichen Wäldern
+DTSTART;TZID=Europe/Berlin:20240623T090000
+DTEND;TZID=Europe/Berlin:20240623T123000
+LOCATION:Fürstlich Drehna\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertour_zu_den_fuerstlichen_waeldern-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glühwürmchen-Wanderung
+DTSTART;TZID=Europe/Berlin:20240624T203000
+DTEND;TZID=Europe/Berlin:20240624T223000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gluehwuermchen-wanderung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Schwerbehindertenausweis – Verfahren\, Vorteile\, Irrtümer 
+ - Informationsveranstaltung
+DTSTART;TZID=Europe/Berlin:20240625T170000
+DTEND;TZID=Europe/Berlin:20240625T190000
+LOCATION:Kulturkirche - Klostersaal\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ der-schwerbehindertenausweis-verfahren-vorteile-irrtuemer-informationsvera
+ nstaltung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glühwürmchen-Wanderung
+DTSTART;TZID=Europe/Berlin:20240625T203000
+DTEND;TZID=Europe/Berlin:20240625T223000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gluehwuermchen-wanderung-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glühwürmchen-Wanderung
+DTSTART;TZID=Europe/Berlin:20240626T203000
+DTEND;TZID=Europe/Berlin:20240626T223000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gluehwuermchen-wanderung-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsfeier mit Buchlesung
+DTSTART;TZID=Europe/Berlin:20240627T160000
+DTEND;TZID=Europe/Berlin:20240627T200000
+LOCATION:Schlossberg Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ jubilaeumsfeier-mit-buchlesung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glühwürmchen-Wanderung
+DTSTART;TZID=Europe/Berlin:20240627T203000
+DTEND;TZID=Europe/Berlin:20240627T223000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gluehwuermchen-wanderung-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 Jahre SG Gießmannsdorf e. V.
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240630
+LOCATION:Sportplatz in Gießmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 30_jahre_sg_giessmannsdorf_e_v.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lichter des Waldes: Glühwürmchen
+DTSTART;TZID=Europe/Berlin:20240628T193000
+DTEND;TZID=Europe/Berlin:20240628T223000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ lichter_des_waldes_gluehwuermchen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:13. Kammermusikkonzert in Dorfkirche Paserin mit Solistenensemble 
+ "Sinfonietta"
+DTSTART;TZID=Europe/Berlin:20240629T170000
+DTEND;TZID=Europe/Berlin:20240629T190000
+LOCATION:Paserin\, Dorfkirche
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 13_kammermusikkonzert_in_dorfkirche_paserin_mit_solistenensemble_sinfoniet
+ ta.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ImproPur -Open Air- (Improvisationstheaterabend)
+DTSTART;TZID=Europe/Berlin:20240629T190000
+DTEND;TZID=Europe/Berlin:20240629T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ impropur_-open_air-_improvisationstheaterabend_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ranger-Tour: Hochzeitsball der Glühwürmchen
+DTSTART;TZID=Europe/Berlin:20240629T220000
+DTEND;TZID=Europe/Berlin:20240629T233000
+LOCATION:Fürstlich Drehna\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ranger-tour_hochzeitsball_der_gluehwuermchen-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rad-Expedition im Naturpark
+DTSTART;TZID=Europe/Berlin:20240630T110000
+DTEND;TZID=Europe/Berlin:20240630T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rad-expedition_im_naturpark.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag der offenen Tür - 5 Jahre Evangelisches Hospiz Luckau
+DTSTART;TZID=Europe/Berlin:20240705T100000
+DTEND;TZID=Europe/Berlin:20240705T120000
+LOCATION:Evangelisches Hospiz Luckau\, Schanzweg 5\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_der_offenen_tuer-5_jahre_evangelisches_hospiz_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Görlsdorfer Gutshofturnier
+DTSTART;TZID=Europe/Berlin:20240706T080000
+DTEND;TZID=Europe/Berlin:20240706T100000
+LOCATION:Görlsdorfer Gutshof 1\, 15926 Luckau\, OT Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 10_goerlsdorfer_gutshofturnier.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sechs-Seen-Tour
+DTSTART;TZID=Europe/Berlin:20240706T100000
+DTEND;TZID=Europe/Berlin:20240706T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sechs-seen-tour-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chorkonzert "Lieben und Leiden\, Loben und Danken"
+DTSTART;TZID=Europe/Berlin:20240706T170000
+DTEND;TZID=Europe/Berlin:20240706T190000
+LOCATION:Kulturkirche\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ chorkonzert_lieben_und_leiden_loben_und_danken.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10. Görlsdorfer Gutshofturnier
+DTSTART;TZID=Europe/Berlin:20240707T080000
+DTEND;TZID=Europe/Berlin:20240707T100000
+LOCATION:Görlsdorfer Gutshof 1\, 15926 Luckau\, OT Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 10_goerlsdorfer_gutshofturnier_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrradcodierung auf dem Wochenmarkt
+DTSTART;TZID=Europe/Berlin:20240711T100000
+DTEND;TZID=Europe/Berlin:20240711T140000
+LOCATION:Luckau\, Marktplatz\, Am Markt 35
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ fahrradcodierung-auf-dem-wochen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Was ist virtuelles Wasser?
+DTSTART;TZID=Europe/Berlin:20240713T100000
+DTEND;TZID=Europe/Berlin:20240713T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ was_ist_virtuelles_wasser_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop: Drehe deinen eigenen Stop-Motion-Film
+DTSTART;TZID=Europe/Berlin:20240713T100000
+DTEND;TZID=Europe/Berlin:20240713T130000
+LOCATION:Niederlausitz-Museum
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ workshop-drehe-deinen-eigenen-stop-motion-film.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pendelfahrten zur Kahnnacht Luckau
+DTSTART;TZID=Europe/Berlin:20240713T153500
+DTEND;TZID=Europe/Berlin:20240713T173500
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ pendelfahrten_zur_kahnnacht_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert zur Eröffnung der Luckauer Kahnnacht
+DTSTART;TZID=Europe/Berlin:20240713T170000
+DTEND;TZID=Europe/Berlin:20240713T190000
+LOCATION:Nikolaikirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konzert_zur_eroeffnung_der_luckauer_kahnnacht.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luckauer Kahnnacht 2024
+DTSTART;TZID=Europe/Berlin:20240713T193000
+DTEND;TZID=Europe/Berlin:20240713T235500
+LOCATION:Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ luckauer_kahnnacht_2024.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waldhorn - Blaskonzert im Schulmuseum Schwarzenburg
+DTSTART;TZID=Europe/Berlin:20240719T180000
+DTEND;TZID=Europe/Berlin:20240719T200000
+LOCATION:Schulmuseum Schwarzenburg (Heideblick)
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ waldhorn-blaskonzert_im_schulmuseum_schwarzenburg.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert Duo Stiehler/Lucaciu
+DTSTART;TZID=Europe/Berlin:20240719T200000
+DTEND;TZID=Europe/Berlin:20240719T220000
+LOCATION:Schlossberg Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konzert_duo_stiehler_lucaciu.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foto-Workshop für Kids
+DTSTART;TZID=Europe/Berlin:20240720T110000
+DTEND;TZID=Europe/Berlin:20240720T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ foto-workshop_fuer_kids-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foto-Workshop für Kids
+DTSTART;TZID=Europe/Berlin:20240720T110000
+DTEND;TZID=Europe/Berlin:20240720T170000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ foto-workshop_fuer_kids-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vernissage im Flur der Kulturkirche Luckau
+DTSTART;TZID=Europe/Berlin:20240721T143000
+DTEND;TZID=Europe/Berlin:20240721T163000
+LOCATION:Kulturkirche Luckau\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ vernissage_im_flur_der_kulturkirche_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferienprogramm: WeltenWandel in Wanninchen
+DTSTART;TZID=Europe/Berlin:20240722T080000
+DTEND;TZID=Europe/Berlin:20240722T100000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ferienprogramm_weltenwandel_in_wanninchen-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferienprogramm: WeltenWandel in Wanninchen
+DTSTART;TZID=Europe/Berlin:20240722T100000
+DTEND;TZID=Europe/Berlin:20240722T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ferienprogramm_weltenwandel_in_wanninchen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferienprogramm: WeltenWandel in Wanninchen
+DTSTART;TZID=Europe/Berlin:20240723T100000
+DTEND;TZID=Europe/Berlin:20240723T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ferienprogramm_weltenwandel_in_wanninchen-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volleyballtag mit SC Einheit
+DTSTART;TZID=Europe/Berlin:20240723T130000
+DTEND;TZID=Europe/Berlin:20240723T150000
+LOCATION:Turnhalle "An der Schanze"
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ volleyballtag_mit_sc_einheit.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferienprogramm: WeltenWandel in Wanninchen
+DTSTART;TZID=Europe/Berlin:20240724T100000
+DTEND;TZID=Europe/Berlin:20240724T160000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ferienprogramm_weltenwandel_in_wanninchen-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Übernachtungsspaß: WeltenWandel
+DTSTART;VALUE=DATE:20240725
+DTEND;VALUE=DATE:20240726
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ _bernachtungsspass_weltenwandel-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Es kracht die Nacht - Open Air#9/Hafenfest
+DTSTART;TZID=Europe/Berlin:20240726T190000
+DTEND;TZID=Europe/Berlin:20240726T210000
+LOCATION:Marina in 15926 Luckau\, Schlabendorf am See
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ es_kracht_die_nacht-open_air_9_hafenfest_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geheimnisvolles Moor
+DTSTART;TZID=Europe/Berlin:20240727T100000
+DTEND;TZID=Europe/Berlin:20240727T130000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ geheimnisvolles_moor-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ImproPur -Open Air- (Improvisationstheaterabend)
+DTSTART;TZID=Europe/Berlin:20240727T190000
+DTEND;TZID=Europe/Berlin:20240727T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ impropur_-open_air-_improvisationstheaterabend_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Es kracht die Nacht - Open Air#9/Hafenfest
+DTSTART;TZID=Europe/Berlin:20240727T200000
+DTEND;TZID=Europe/Berlin:20240727T220000
+LOCATION:Marina  Luckau\, Schlabendorf am See
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ es_kracht_die_nacht-open_air_9_hafenfest.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schau mal\, was da flattert!
+DTSTART;TZID=Europe/Berlin:20240728T140000
+DTEND;TZID=Europe/Berlin:20240728T163000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ schau_mal_was_da_flattert_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZUR DICKEN WACHTEL oder Wie man Männer mordet (Open Air)
+DTSTART;TZID=Europe/Berlin:20240728T160000
+DTEND;TZID=Europe/Berlin:20240728T183000
+LOCATION:Familie Wolff\, 15926 Luckau OT Uckro
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ zur_dicken_wachtel_oder_wie_man_maenner_mordet_open_air_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Araoz\, Saxophonistin aus Südamerika
+DTSTART;TZID=Europe/Berlin:20240802T190000
+DTEND;TZID=Europe/Berlin:20240802T210000
+LOCATION:Wildau-Wentdorf 50\, 15936 Dahmetal
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ carolina_araoz_saxophonistin_aus_suedamerika.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foto-Workshop: Natur im Fokus
+DTSTART;TZID=Europe/Berlin:20240803T090000
+DTEND;TZID=Europe/Berlin:20240803T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ foto-workshop_natur_im_fokus-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spreewälder Gurkentag - Fest des regionalen Geschmacks
+DTSTART;TZID=Europe/Berlin:20240803T100000
+DTEND;TZID=Europe/Berlin:20240803T120000
+LOCATION:Schlosspark Golßen\, Zugang Bahnhofstraße
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spreewaelder_gurkentag-fest_des_regionalen_geschmacks.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZUR DICKEN WACHTEL oder Wie man Männer mordet (Open Air)
+DTSTART;TZID=Europe/Berlin:20240803T160000
+DTEND;TZID=Europe/Berlin:20240803T183000
+LOCATION:L. Treder-Schmidt\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ zur_dicken_wachtel_oder_wie_man_maenner_mordet_open_air_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Von Aquarellen bis Zeichnungen - Zum 145. Geburtstag Georg Wehrman
+ ns
+DTSTART;VALUE=DATE:20240804
+DTEND;VALUE=DATE:20250126
+LOCATION:Niederlausitz-Museum\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ von_aquarellen_bis_zeichnungen_-_zum_145_geburtstag_georg_wehrmanns.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sechs-Seen-Tour
+DTSTART;TZID=Europe/Berlin:20240804T100000
+DTEND;TZID=Europe/Berlin:20240804T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sechs-seen-tour-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonderzug nach Görlitz zur Brauereibesichtigung mit Verköstigung
+DTSTART;TZID=Europe/Berlin:20240810T090000
+DTEND;TZID=Europe/Berlin:20240810T110000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sonderzug-nach-goerlitz-zur-brauereibesichtigung-mit-verkoestigung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wildbienen-Bestimmungskurs
+DTSTART;TZID=Europe/Berlin:20240810T100000
+DTEND;TZID=Europe/Berlin:20240810T140000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wildbienen-bestimmungskurs-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wildbienen-Bestimmungskurs
+DTSTART;TZID=Europe/Berlin:20240810T100000
+DTEND;TZID=Europe/Berlin:20240810T140000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau\, OT Görlsdorf\,
+  15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wildbienen-bestimmungskurs-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert EGO Trouble
+DTSTART;TZID=Europe/Berlin:20240810T190000
+DTEND;TZID=Europe/Berlin:20240810T210000
+LOCATION:Wildau-Wentdorf 50\, 15936 Dahmetal
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konzert_ego_trouble.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZUR DICKEN WACHTEL oder Wie man Männer mordet (Open Air)
+DTSTART;TZID=Europe/Berlin:20240811T160000
+DTEND;TZID=Europe/Berlin:20240811T183000
+LOCATION:B. Andersohn\, 15926 Heideblick
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ zur_dicken_wachtel_oder_wie_man_maenner_mordet_open_air_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geheimnisvolles Treiben im Bornsdorfer Schlosspark
+DTSTART;TZID=Europe/Berlin:20240816T193000
+DTEND;TZID=Europe/Berlin:20240816T230000
+LOCATION:Bornsdorf\, 15926 Heideblick
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ geheimnisvolles_treiben_im_bornsdorfer_schlosspark.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit Bengss aus Berlin
+DTSTART;TZID=Europe/Berlin:20240817T190000
+DTEND;TZID=Europe/Berlin:20240817T210000
+LOCATION:Wildau-Wentdorf 50\, 15936 Dahmetal
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konzert_mit_bengss_aus_berlin.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auf dem Schellenten-Weg
+DTSTART;TZID=Europe/Berlin:20240818T110000
+DTEND;TZID=Europe/Berlin:20240818T140000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ auf_dem_schellenten-weg.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falsche Schlange (Öffentliche Probe)
+DTSTART;TZID=Europe/Berlin:20240821T190000
+DTEND;TZID=Europe/Berlin:20240821T210000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ falsche_schlange_ffentliche_probe_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foto-Workshop für Kids
+DTSTART;TZID=Europe/Berlin:20240823T090000
+DTEND;TZID=Europe/Berlin:20240823T150000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ foto-workshop_fuer_kids-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rock im Wald auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240823T200000
+DTEND;TZID=Europe/Berlin:20240823T220000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rock_im_wald_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderung "Nachbar Wolf"
+DTSTART;TZID=Europe/Berlin:20240824T150000
+DTEND;TZID=Europe/Berlin:20240824T170000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wanderung_nachbar_wolf.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Wer reitet so spät ..." - Lieder von guten und  bösen Geistern
+DTSTART;TZID=Europe/Berlin:20240825T160000
+DTEND;TZID=Europe/Berlin:20240825T180000
+LOCATION:Dorfkirche Zieckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wer_reitet_so_spaet-lieder_von_guten_und_boesen_geistern_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benefizschwimmen
+DTSTART;TZID=Europe/Berlin:20240830T120000
+DTEND;TZID=Europe/Berlin:20240830T140000
+LOCATION:Freibad Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ benefizschwimmen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fledermaus-Wanderung
+DTSTART;TZID=Europe/Berlin:20240830T200000
+DTEND;TZID=Europe/Berlin:20240830T220000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ fledermaus-wanderung-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Batnight"
+DTSTART;TZID=Europe/Berlin:20240831T180000
+DTEND;TZID=Europe/Berlin:20240831T230000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ batnight-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eröffnung der Kranichsaison
+DTSTART;TZID=Europe/Berlin:20240901T100000
+DTEND;TZID=Europe/Berlin:20240901T200000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ eroeffnung_der_kranichsaison-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumskonzert zum Orgeljubiläum der Luckauer Donat-Orgel
+DTSTART;TZID=Europe/Berlin:20240901T140000
+DTEND;TZID=Europe/Berlin:20240901T160000
+LOCATION:Nikolaikirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ jubilaeumskonzert_zum_orgeljubilaeum_der_luckauer_donat-orgel.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240901T183000
+DTEND;TZID=Europe/Berlin:20240901T200000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240905T183000
+DTEND;TZID=Europe/Berlin:20240905T200000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240906T150000
+DTEND;TZID=Europe/Berlin:20240906T180000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240906T183000
+DTEND;TZID=Europe/Berlin:20240906T200000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240907T150000
+DTEND;TZID=Europe/Berlin:20240907T180000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pendelfahrten zur Altstadtnacht Luckau
+DTSTART;TZID=Europe/Berlin:20240907T153500
+DTEND;TZID=Europe/Berlin:20240907T173500
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ pendelfahrten_zur_altstadtnacht_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luckauer Altstadtnacht 2024
+DTSTART;TZID=Europe/Berlin:20240907T180000
+DTEND;TZID=Europe/Berlin:20240907T200000
+LOCATION:Verein "Wir sind Luckau" e.V:\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ luckauer_altstadtnacht_2024.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240907T183000
+DTEND;TZID=Europe/Berlin:20240907T200000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gospelkonzert in Luckau
+DTSTART;TZID=Europe/Berlin:20240907T200000
+DTEND;TZID=Europe/Berlin:20240907T220000
+LOCATION:Nikolaikirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gospelkonzert_in_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag der offenen Tore im Bahnbetriebswerk Luckau
+DTSTART;TZID=Europe/Berlin:20240908T100000
+DTEND;TZID=Europe/Berlin:20240908T120000
+LOCATION:Bahnbetriebswerk Luckau\, Bersteweg 25\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_der_offenen_tore_im_bahnbetriebswerk_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kartoffelbrunch zum Tag des offenen Denkmals
+DTSTART;TZID=Europe/Berlin:20240908T100000
+DTEND;TZID=Europe/Berlin:20240908T160000
+LOCATION:Landesgartenschau Luckau 2000 gGmbH\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kartoffelbrunch_zum_tag_des_offenen_denkmals-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag des offenen Denkmals Bockwindmühle Fürstlich Drehna
+DTSTART;TZID=Europe/Berlin:20240908T100000
+DTEND;TZID=Europe/Berlin:20240908T120000
+LOCATION:Kultur- und Heimatverein Fürstlich Drehna e.V.\, 15926 Luckau - 
+ OT Fürstlich Drehna
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_des_offenen_denkmals_bockwindmuehle_fuerstlich_drehna.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag des offenen Denkmals im Schulmuseum Schwarzenburg
+DTSTART;TZID=Europe/Berlin:20240908T130000
+DTEND;TZID=Europe/Berlin:20240908T150000
+LOCATION:Schulmuseum Schwarzenburg (Heideblick)
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_des_offenen_denkmals_im_schulmuseum_schwarzenburg.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gans oder Kranich - Einsteiger-Bestimmungskurs
+DTSTART;TZID=Europe/Berlin:20240908T163000
+DTEND;TZID=Europe/Berlin:20240908T200000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gans_oder_kranich_-_einsteiger-bestimmungskurs.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240908T183000
+DTEND;TZID=Europe/Berlin:20240908T200000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240908T183000
+DTEND;TZID=Europe/Berlin:20240908T200000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wie klingt der Herbst? - Radtour
+DTSTART;TZID=Europe/Berlin:20240911T170000
+DTEND;TZID=Europe/Berlin:20240911T200000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wie_klingt_der_herbst_-_radtour.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240912T183000
+DTEND;TZID=Europe/Berlin:20240912T200000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240913T150000
+DTEND;TZID=Europe/Berlin:20240913T180000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240913T183000
+DTEND;TZID=Europe/Berlin:20240913T200000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falsche Schlange (Thriller von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20240913T190000
+DTEND;TZID=Europe/Berlin:20240913T210000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ falsche_schlange_thriller_von_alan_ayckbourn_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baukultur Picknick in Caule
+DTSTART;TZID=Europe/Berlin:20240914T100000
+DTEND;TZID=Europe/Berlin:20240914T200000
+LOCATION:Dorfkirche Zieckau\, Zieckau 14\, und Guthaus Caule\, Caule 4\, 1
+ 5926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ baukultur_picknick_in_caule.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auf Foto-Safari im Naturpark Niederlausitzer Landrücken
+DTSTART;TZID=Europe/Berlin:20240914T110000
+DTEND;TZID=Europe/Berlin:20240914T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ auf_foto-safari_im_naturpark_niederlausitzer_landruecken.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Camp
+DTSTART;VALUE=DATE:20240914
+DTEND;VALUE=DATE:20240915
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-camp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240914T183000
+DTEND;TZID=Europe/Berlin:20240914T200000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Niederlausitzer Taschenlampenkonzert auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240914T183000
+DTEND;TZID=Europe/Berlin:20240914T203000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 4_niederlausitzer_taschenlampenkonzert_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falsche Schlange (Thriller von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20240914T190000
+DTEND;TZID=Europe/Berlin:20240914T210000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ falsche_schlange_thriller_von_alan_ayckbourn_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gans oder Kranich - Einsteiger-Bestimmungskurs
+DTSTART;TZID=Europe/Berlin:20240915T163000
+DTEND;TZID=Europe/Berlin:20240915T200000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gans_oder_kranich_-_einsteiger-bestimmungskurs-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240915T183000
+DTEND;TZID=Europe/Berlin:20240915T200000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wie klingt der Herbst? - Radtour
+DTSTART;TZID=Europe/Berlin:20240918T170000
+DTEND;TZID=Europe/Berlin:20240918T200000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wie_klingt_der_herbst_-_radtour-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fahrradcodierung auf dem Wochenmarkt
+DTSTART;TZID=Europe/Berlin:20240919T100000
+DTEND;TZID=Europe/Berlin:20240919T140000
+LOCATION:Luckau\, Marktplatz\, Am Markt 35
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ fahrradcodierung-.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240919T180000
+DTEND;TZID=Europe/Berlin:20240919T193000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-7.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240920T150000
+DTEND;TZID=Europe/Berlin:20240920T180000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laternenabenteuer im Märchenwald auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240920T170000
+DTEND;TZID=Europe/Berlin:20240920T190000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ laternenabenteuer_im_maerchenwald_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240920T180000
+DTEND;TZID=Europe/Berlin:20240920T193000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-8.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag der offenen Tür
+DTSTART;TZID=Europe/Berlin:20240921T140000
+DTEND;TZID=Europe/Berlin:20240921T160000
+LOCATION:NL Musik- und Kunstschule e.V.\, Am Bahnhof 5\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_der_offenen_tuer_3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240921T150000
+DTEND;TZID=Europe/Berlin:20240921T180000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240921T180000
+DTEND;TZID=Europe/Berlin:20240921T193000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jugendliebe im Herbst auf der Waldbühne Gehren
+DTSTART;TZID=Europe/Berlin:20240921T200000
+DTEND;TZID=Europe/Berlin:20240921T220000
+LOCATION:Waldbühne Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ jugendliebe_im_herbst_auf_der_waldbuehne_gehren.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranicherwachen
+DTSTART;TZID=Europe/Berlin:20240922T061500
+DTEND;TZID=Europe/Berlin:20240922T090000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranicherwachen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240922T180000
+DTEND;TZID=Europe/Berlin:20240922T193000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-5.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240922T180000
+DTEND;TZID=Europe/Berlin:20240922T193000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-10.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öffentliche Kranichzählung
+DTSTART;TZID=Europe/Berlin:20240923T060000
+DTEND;TZID=Europe/Berlin:20240923T080000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ _ffentliche_kranichzaehlung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benefizkonzert mit dem Landespolizeiorchester
+DTSTART;TZID=Europe/Berlin:20240925T143000
+DTEND;TZID=Europe/Berlin:20240925T163000
+LOCATION:Schloßberg in Luckau\, Nordpromenade 20
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ benefizkonzert_mit_dem_landespolizeiorchester.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240926T180000
+DTEND;TZID=Europe/Berlin:20240926T193000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-11.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20240927T150000
+DTEND;TZID=Europe/Berlin:20240927T180000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240927T180000
+DTEND;TZID=Europe/Berlin:20240927T193000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-12.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falsche Schlange (Thriller von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20240927T190000
+DTEND;TZID=Europe/Berlin:20240927T210000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ falsche_schlange_thriller_von_alan_ayckbourn_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonderzug zum Weinfest Meißen
+DTSTART;TZID=Europe/Berlin:20240928T090000
+DTEND;TZID=Europe/Berlin:20240928T110000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sonderzug_zum_weinfest_meissen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24. Niederlausitzer Hubertusjagd
+DTSTART;TZID=Europe/Berlin:20240928T100000
+DTEND;TZID=Europe/Berlin:20240928T120000
+LOCATION:Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 24-niederlausitzer-hubertusjagd.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240928T180000
+DTEND;TZID=Europe/Berlin:20240928T193000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-6.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240928T180000
+DTEND;TZID=Europe/Berlin:20240928T193000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-13.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falsche Schlange (Thriller von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20240928T190000
+DTEND;TZID=Europe/Berlin:20240928T210000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ falsche_schlange_thriller_von_alan_ayckbourn_-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luckauer Teilemarkt mit Oldtimertreffen & Maxi-Herbst-Mix
+DTSTART;TZID=Europe/Berlin:20240929T080000
+DTEND;TZID=Europe/Berlin:20240929T180000
+LOCATION:Laga-Park Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ luckauer_teilemarkt_mit_oldtimertreffen_maxi-herbst-mix-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dürre\, Stürme\, Hochwasser – Dem Klimawandel in der Lausitz a
+ uf der Spur: Zur Beke
+DTSTART;TZID=Europe/Berlin:20240929T110000
+DTEND;TZID=Europe/Berlin:20240929T140000
+LOCATION:Höllberghof\, 15926 Heideblick Ortsteil Langengrassau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ duerre_stuerme_hochwasser_dem_klimawandel_in_der_lausitz_auf_der_spur_zur_
+ beke-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20240929T180000
+DTEND;TZID=Europe/Berlin:20240929T193000
+LOCATION:Kranichturm\, 15926 Freesdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-beobachtungen_am_borcheltsbusch-7.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20240929T180000
+DTEND;TZID=Europe/Berlin:20240929T193000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-14.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Im Reich der Pilze - Naturkundliche Wanderung durch das Bergen-Wei
+ ßacker Moor
+DTSTART;TZID=Europe/Berlin:20241002T130000
+DTEND;TZID=Europe/Berlin:20241002T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ im_reich_der_pilze_-_naturkundliche_wanderung_durch_das_bergen-weissacker_
+ moor.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Türen auf mit der Maus
+DTSTART;TZID=Europe/Berlin:20241003T140000
+DTEND;TZID=Europe/Berlin:20241003T163000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tueren_auf_mit_der_maus.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241003T173000
+DTEND;TZID=Europe/Berlin:20241003T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-15.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241004T140000
+DTEND;TZID=Europe/Berlin:20241004T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-5.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241004T173000
+DTEND;TZID=Europe/Berlin:20241004T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-16.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonderzug goldener Herbst in Prag
+DTSTART;TZID=Europe/Berlin:20241005T060000
+DTEND;TZID=Europe/Berlin:20241005T080000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sonderzug_goldener_herbst_in_prag.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranicherwachen am Schlabendorfer See
+DTSTART;TZID=Europe/Berlin:20241005T063000
+DTEND;TZID=Europe/Berlin:20241005T083000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranicherwachen_am_schlabendorfer_see.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241005T140000
+DTEND;TZID=Europe/Berlin:20241005T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-6.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241005T173000
+DTEND;TZID=Europe/Berlin:20241005T190000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241005T173000
+DTEND;TZID=Europe/Berlin:20241005T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-17.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Wenn Kühe träumen ..." - Musik für Alphörner und Orgel
+DTSTART;TZID=Europe/Berlin:20241006T160000
+DTEND;TZID=Europe/Berlin:20241006T180000
+LOCATION:Dorfkirche Zieckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wenn_kuehe_traeumen-musik_fuer_alphoerner_und_orgel_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANIMA MUNDI #5 - Sound-Performance und Konzert von Laura Mello und
+  Alex Stolze feat. Ben Osborn
+DTSTART;TZID=Europe/Berlin:20241006T160000
+DTEND;TZID=Europe/Berlin:20241006T180000
+LOCATION:Kulturkirche Luckau (Nonnengasse 1\, 15926 Luckau)
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ anima_mundi_5-sound-performance_und_konzert_von_laura_mello_und_alex_stolz
+ e_feat_ben_osborn.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Wenn Kühe träumen ..." Konzert in Zieckau
+DTSTART;TZID=Europe/Berlin:20241006T160000
+DTEND;TZID=Europe/Berlin:20241006T180000
+LOCATION:Dorfkirche Zieckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wenn_kuehe_traeumen_konzert_in_zieckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241006T173000
+DTEND;TZID=Europe/Berlin:20241006T190000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241006T173000
+DTEND;TZID=Europe/Berlin:20241006T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-18.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wie klingt der Herbst? - Radtour
+DTSTART;TZID=Europe/Berlin:20241009T160000
+DTEND;TZID=Europe/Berlin:20241009T190000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wie_klingt_der_herbst_-_radtour-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241010T173000
+DTEND;TZID=Europe/Berlin:20241010T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-19.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241011T140000
+DTEND;TZID=Europe/Berlin:20241011T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-7.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241011T173000
+DTEND;TZID=Europe/Berlin:20241011T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-20.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paolo Francese - Klavierkonzert
+DTSTART;TZID=Europe/Berlin:20241011T190000
+DTEND;TZID=Europe/Berlin:20241011T210000
+LOCATION:Kulturkirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ paolo_francese_-_klavierkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spritzig am Gaumen\, toxisch im Abgang (Kriminalkomödie)
+DTSTART;TZID=Europe/Berlin:20241011T190000
+DTEND;TZID=Europe/Berlin:20241011T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spritzig_am_gaumen_toxisch_im_abgang_kriminalkomoedie_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Kranichlauf Wanninchen
+DTSTART;TZID=Europe/Berlin:20241012T100000
+DTEND;TZID=Europe/Berlin:20241012T113000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 2_kranichlauf_wanninchen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241012T140000
+DTEND;TZID=Europe/Berlin:20241012T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-8.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Musikalische Benefizlesung mit Buchpremiere
+DTSTART;TZID=Europe/Berlin:20241012T150000
+DTEND;TZID=Europe/Berlin:20241012T170000
+LOCATION:Kulturkirche Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ musikalische_benefizlesung_mit_buchpremiere.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241012T173000
+DTEND;TZID=Europe/Berlin:20241012T190000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241012T173000
+DTEND;TZID=Europe/Berlin:20241012T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-21.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spritzig am Gaumen\, toxisch im Abgang (Kriminalkomödie)
+DTSTART;TZID=Europe/Berlin:20241012T190000
+DTEND;TZID=Europe/Berlin:20241012T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spritzig_am_gaumen_toxisch_im_abgang_kriminalkomoedie_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoftrödel zur Museumsauflösung
+DTSTART;TZID=Europe/Berlin:20241013T090000
+DTEND;TZID=Europe/Berlin:20241013T110000
+LOCATION:15926 Luckau\, OT Uckro\, Uckroer Dorfstraße 25
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ hoftroedel_zur_museumsaufloesung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUCKI - Baby- & Kindersachenflohmarkt Luckau
+DTSTART;TZID=Europe/Berlin:20241013T090000
+DTEND;TZID=Europe/Berlin:20241013T130000
+LOCATION:LAGA-Park\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ lucki_-_baby-_kindersachenflohmarkt_luckau-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241013T173000
+DTEND;TZID=Europe/Berlin:20241013T190000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241013T173000
+DTEND;TZID=Europe/Berlin:20241013T190000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-22.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wie klingt der Herbst? - Radtour
+DTSTART;TZID=Europe/Berlin:20241016T160000
+DTEND;TZID=Europe/Berlin:20241016T190000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wie_klingt_der_herbst_-_radtour-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farbige Kirchengemälde nach graphischen Vorlagen. Das umfangreich
+ e Werk des Niederlausitzer Malers Michael Scharbe (1650-1723)
+DTSTART;TZID=Europe/Berlin:20241016T190000
+DTEND;TZID=Europe/Berlin:20241016T210000
+LOCATION:Kulturkirche - Klostersaal\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ farbige_kirchengemaelde_nach_graphischen_vorlagen_das_umfangreiche_werk_de
+ s_niederlausitzer_malers_michael_scharbe_1650-1723.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241017T170000
+DTEND;TZID=Europe/Berlin:20241017T183000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-23.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241018T140000
+DTEND;TZID=Europe/Berlin:20241018T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-9.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241018T170000
+DTEND;TZID=Europe/Berlin:20241018T183000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-24.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranicherwachen im Naturschutzgebiet Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241019T070000
+DTEND;TZID=Europe/Berlin:20241019T093000
+LOCATION:Aussichtsturm Borcheltsbusch - Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranicherwachen_im_naturschutzgebiet_borcheltsbusch.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241019T140000
+DTEND;TZID=Europe/Berlin:20241019T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-10.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241019T170000
+DTEND;TZID=Europe/Berlin:20241019T183000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241019T170000
+DTEND;TZID=Europe/Berlin:20241019T183000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-25.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Museumsnacht im Niederlausitz-Museum
+DTSTART;TZID=Europe/Berlin:20241019T190000
+DTEND;TZID=Europe/Berlin:20241019T210000
+LOCATION:Niederlausitz-Museum\, Kulturkirche\, Nonnengasse 1\, 15926 Lucka
+ u
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ museumsnacht-im-niederlausitz-museum.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gans oder Kranich - Einsteiger-Bestimmungskurs
+DTSTART;TZID=Europe/Berlin:20241020T153000
+DTEND;TZID=Europe/Berlin:20241020T190000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gans_oder_kranich_-_einsteiger-bestimmungskurs-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241020T170000
+DTEND;TZID=Europe/Berlin:20241020T183000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241020T170000
+DTEND;TZID=Europe/Berlin:20241020T183000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-26.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag des Einbruchschutzes - Ist mein Haus sicher???
+DTSTART;TZID=Europe/Berlin:20241022T100000
+DTEND;TZID=Europe/Berlin:20241022T180000
+LOCATION:Rathaus Luckau\, Am Markt 34\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag-des-einbruchschutzes-ist-mein-haus-sicher.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waldspaziergang "Faszination Fliegenpilz"
+DTSTART;TZID=Europe/Berlin:20241023T140000
+DTEND;TZID=Europe/Berlin:20241023T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ waldspaziergang_faszination_fliegenpilz.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241024T170000
+DTEND;TZID=Europe/Berlin:20241024T183000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-27.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241025T140000
+DTEND;TZID=Europe/Berlin:20241025T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-11.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241025T170000
+DTEND;TZID=Europe/Berlin:20241025T183000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-28.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt (VORPREMIERE)
+DTSTART;TZID=Europe/Berlin:20241025T190000
+DTEND;TZID=Europe/Berlin:20241025T223000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt_vorpremiere_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranich-Safari durch Sielmanns Naturlandschaft Wanninchen
+DTSTART;TZID=Europe/Berlin:20241026T140000
+DTEND;TZID=Europe/Berlin:20241026T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranich-safari_durch_sielmanns_naturlandschaft_wanninchen-12.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241026T170000
+DTEND;TZID=Europe/Berlin:20241026T183000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch-5.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241026T170000
+DTEND;TZID=Europe/Berlin:20241026T183000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-29.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gans oder Kranich - Einsteiger-Bestimmungskurs
+DTSTART;TZID=Europe/Berlin:20241027T153000
+DTEND;TZID=Europe/Berlin:20241027T190000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gans_oder_kranich_-_einsteiger-bestimmungskurs-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTouren: Kranich- und Gänse-Beobachtungen am Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20241027T160000
+DTEND;TZID=Europe/Berlin:20241027T173000
+LOCATION:Kranichturm\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertouren_kranich-_und_gaense-beobachtungen_am_borcheltsbusch-6.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kranichbeobachtung - Faszination Kranichzug
+DTSTART;TZID=Europe/Berlin:20241027T160000
+DTEND;TZID=Europe/Berlin:20241027T180000
+LOCATION:Natur-Erlebniszentrum Wanninchen\, 15926 Luckau - Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kranichbeobachtung_-_faszination_kranichzug-30.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Operetten Revue
+DTSTART;TZID=Europe/Berlin:20241027T170000
+DTEND;TZID=Europe/Berlin:20241027T190000
+LOCATION:Kulturkirche Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ operetten_revue.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Im Reich der Pilze - Naturkundliche Wanderung durch das Bergen-Wei
+ ßacker Moor
+DTSTART;TZID=Europe/Berlin:20241030T130000
+DTEND;TZID=Europe/Berlin:20241030T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ im_reich_der_pilze_-_naturkundliche_wanderung_durch_das_bergen-weissacker_
+ moor-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ute Krause liest aus "Die Musketiere" / Niederlausitzer Kriminäch
+ te
+DTSTART;TZID=Europe/Berlin:20241030T170000
+DTEND;TZID=Europe/Berlin:20241030T190000
+LOCATION:Kulturkirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ute_krause_liest_aus_die_musketiere_niederlausitzer_kriminaechte.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael Kumpfmüller liest aus "Wir Gespenster" / Niederlausitzer 
+ Kriminächte
+DTSTART;TZID=Europe/Berlin:20241030T190000
+DTEND;TZID=Europe/Berlin:20241030T210000
+LOCATION:Kulturkirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ michael_kumpfmueller_liest_aus_wir_gespenster_niederlausitzer_kriminaechte
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Im Reich der Pilze - Naturkundliche Wanderung mit anschließender 
+ Kranichbeobachtung
+DTSTART;TZID=Europe/Berlin:20241031T130000
+DTEND;TZID=Europe/Berlin:20241031T190000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ im_reich_der_pilze_-_naturkundliche_wanderung_mit_anschliessender_kranichb
+ eobachtung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GRUSELEXPRESS
+DTSTART;TZID=Europe/Berlin:20241031T150000
+DTEND;TZID=Europe/Berlin:20241031T170000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ gruselexpress.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachts im Museum - Lange aufbleiben mit Eule\, Fledermaus und Wolf
+DTSTART;TZID=Europe/Berlin:20241101T170000
+DTEND;TZID=Europe/Berlin:20241101T230000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ nachts_im_museum_-_lange_aufbleiben_mit_eule_fledermaus_und_wolf.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAMPFZUG ZUM 20: PULSNITZER PFEFFERKUCHENMARKT
+DTSTART;TZID=Europe/Berlin:20241102T073000
+DTEND;TZID=Europe/Berlin:20241102T093000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ dampfzug_zum_20_pulsnitzer_pfefferkuchenmarkt.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachbar Wolf
+DTSTART;TZID=Europe/Berlin:20241102T100000
+DTEND;TZID=Europe/Berlin:20241102T130000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ nachbar_wolf.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elisabeth Herrmann liest aus "Blutanger" / Niederlausitzer Krimin
+ ächte
+DTSTART;TZID=Europe/Berlin:20241107T190000
+DTEND;TZID=Europe/Berlin:20241107T210000
+LOCATION:Agrargenossenschaft Goßmar\, 15926 Heideblick
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ elisabeth_herrmann_liest_aus_blutanger_niederlausitzer_kriminaechte.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uri Gincel Trio - Jazzkonzert
+DTSTART;TZID=Europe/Berlin:20241108T190000
+DTEND;TZID=Europe/Berlin:20241108T210000
+LOCATION:Kulturkirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ uri_gincel_trio_-_jazzkonzert.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spritzig am Gaumen\, toxisch im Abgang (Kriminalkomödie)
+DTSTART;TZID=Europe/Berlin:20241108T190000
+DTEND;TZID=Europe/Berlin:20241108T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spritzig_am_gaumen_toxisch_im_abgang_kriminalkomoedie_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spritzig am Gaumen\, toxisch im Abgang (Kriminalkomödie)
+DTSTART;TZID=Europe/Berlin:20241109T190000
+DTEND;TZID=Europe/Berlin:20241109T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spritzig_am_gaumen_toxisch_im_abgang_kriminalkomoedie_-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Abend für Georg Wehrmann (1879 - 1944) - Heimatmaler und Gymn
+ asiallehrer in Luckau
+DTSTART;TZID=Europe/Berlin:20241113T190000
+DTEND;TZID=Europe/Berlin:20241113T210000
+LOCATION:Niederlausitz-Museum Luckau/Kulturkirche - Klostersaal\, Nonnenga
+ sse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ein_abend_fuer_georg_wehrmann_1879-1944-heimatmaler_und_gymnasiallehrer_in
+ _luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241115T190000
+DTEND;TZID=Europe/Berlin:20241115T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisbeinessen im Bahnbetriebswerk Luckau
+DTSTART;TZID=Europe/Berlin:20241116T150000
+DTEND;TZID=Europe/Berlin:20241116T170000
+LOCATION:Bahnbetriebswerk Luckau\, Bersteweg 25\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ eisbeinessen_im_bahnbetriebswerk_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241116T190000
+DTEND;TZID=Europe/Berlin:20241116T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volkstrauertag am 17. November 2024
+DTSTART;TZID=Europe/Berlin:20241117T100000
+DTEND;TZID=Europe/Berlin:20241117T120000
+LOCATION:Sankt-Nikolai-Kirche\, Kirchplatz 7\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ volkstrauertag-am-17-november-2024.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oh Herz\, sei endlich Stille! Ein Abend mit und über Franz Schube
+ rt
+DTSTART;TZID=Europe/Berlin:20241121T190000
+DTEND;TZID=Europe/Berlin:20241121T210000
+LOCATION:Kulturkirche - Klostersaal\, Nonnengasse 1\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ oh-herz-sei-endlich-stille.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241122T190000
+DTEND;TZID=Europe/Berlin:20241122T223000
+LOCATION:Gasthaus Raunigk\, 15926 Heideblick OT Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Engelwerkstatt im Kinder-Kunst-Atelier
+DTSTART;TZID=Europe/Berlin:20241123T130000
+DTEND;TZID=Europe/Berlin:20241123T150000
+LOCATION:NL Musik- und Kunstschule e.V.\, Am Bahnhof 5\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ engelwerkstatt_im_kinder-kunst-atelier.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241123T190000
+DTEND;TZID=Europe/Berlin:20241123T223000
+LOCATION:Gasthaus Raunigk\, 15926 Heideblick OT Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIMELESS25 the reason why
+DTSTART;TZID=Europe/Berlin:20241123T193000
+DTEND;TZID=Europe/Berlin:20241123T213000
+LOCATION:Schlossberg Luckau\, Nordpromenade 20\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ timeless25_the_reason_why_2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buchvorstellung
+DTSTART;TZID=Europe/Berlin:20241128T183000
+DTEND;TZID=Europe/Berlin:20241128T203000
+LOCATION:Hauptstraße Nr. 36 in Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ buchvorstellung.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaziergang: Raus in die Kälte
+DTSTART;TZID=Europe/Berlin:20241129T130000
+DTEND;TZID=Europe/Berlin:20241129T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spaziergang_raus_in_die_kaelte.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241129T190000
+DTEND;TZID=Europe/Berlin:20241129T223000
+LOCATION:Landhaus Duben\, 15926 Luckau OT Duben
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klassikkonzert Volkhard Steude & Prof. Andreas Rentsch
+DTSTART;TZID=Europe/Berlin:20241129T193000
+DTEND;TZID=Europe/Berlin:20241129T213000
+LOCATION:Kulturkirche\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ klassikkonzert_volkhard_steude_prof_andreas_rentsch.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dampfzug zum Schlesischen Christkindelmarkt Görlitz
+DTSTART;TZID=Europe/Berlin:20241130T080000
+DTEND;TZID=Europe/Berlin:20241130T100000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ dampfzug_zum_schlesischen_christkindelmarkt_goerlitz.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinderkonzert mit Volkhard Steude
+DTSTART;TZID=Europe/Berlin:20241130T150000
+DTEND;TZID=Europe/Berlin:20241130T170000
+LOCATION:Landesgartenschau Luckau 2000 gGmbH\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ kinderkonzert_mit_volkhard_steude.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventliche Orgelmusik
+DTSTART;TZID=Europe/Berlin:20241130T160000
+DTEND;TZID=Europe/Berlin:20241130T180000
+LOCATION:Dorfkirche Waltersdorf\, 15926 Heideblick
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ adventliche_orgelmusik.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241130T190000
+DTEND;TZID=Europe/Berlin:20241130T223000
+LOCATION:Landhaus Duben\, 15926 Luckau OT Duben
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klassikkonzert Volkhard Steude & Prof. Andreas Rentsch
+DTSTART;TZID=Europe/Berlin:20241130T193000
+DTEND;TZID=Europe/Berlin:20241130T213000
+LOCATION:Kulturkirche\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ klassikkonzert_volkhard_steude_prof_andreas_rentsch-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dampfpendelfahrten zum Weihnachtsmarkt Neuendorf
+DTSTART;TZID=Europe/Berlin:20241201T100000
+DTEND;TZID=Europe/Berlin:20241201T120000
+LOCATION:Bahnhof Neuendorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ dampfpendelfahrten_zum_weihnachtsmarkt_neuendorf.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traditioneller Weihnachtsmarkt in Uckro
+DTSTART;TZID=Europe/Berlin:20241201T133000
+DTEND;TZID=Europe/Berlin:20241201T153000
+LOCATION:Dorfanger Uckro\, 15926 Luckau\, OT Uckro
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ traditioneller-weihnachtsmarkt-in-uckro.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weihnachtsrevue 2024 - Show 1 - unsere Kids und Bambini
+DTSTART;TZID=Europe/Berlin:20241201T150000
+DTEND;TZID=Europe/Berlin:20241201T170000
+LOCATION:Schlossberg Luckau\, Nordpromenade 20\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ weihnachtsrevue_2024-show_1-unsere_kids_und_bambini.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventsmusik und Weihnachtsbaumanknipsen 2024 auf dem Luckauer Mar
+ kt
+DTSTART;TZID=Europe/Berlin:20241201T170000
+DTEND;TZID=Europe/Berlin:20241201T190000
+LOCATION:Marktplatz Luckau\, Am Markt 34\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ adventsmusik-und-weihnachtsbaumanknipsen-2024-auf-dem-luckauer-markt.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaziergang: Raus in die Kälte
+DTSTART;TZID=Europe/Berlin:20241203T110000
+DTEND;TZID=Europe/Berlin:20241203T130000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spaziergang_raus_in_die_kaelte-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altstadtweihnacht Luckau: Glühweinmeile & Adventskalender
+DTSTART;TZID=Europe/Berlin:20241206T160000
+DTEND;TZID=Europe/Berlin:20241206T220000
+LOCATION:Landesgartenschau Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ altstadtweihnacht_luckau_gluehweinmeile_adventskalender.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chorkonzert "Jubelt laut\,  singt ohne Ende"
+DTSTART;TZID=Europe/Berlin:20241206T200000
+DTEND;TZID=Europe/Berlin:20241206T220000
+LOCATION:Kulturkirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ chorkonzert_jubelt_laut_singt_ohne_ende.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altstadtweihnacht Luckau: Weihnachtsmarkt vom Töpferbrunnen bis z
+ um Marktplatz
+DTSTART;TZID=Europe/Berlin:20241207T120000
+DTEND;TZID=Europe/Berlin:20241207T210000
+LOCATION:Landesgartenschau Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ altstadtweihnacht_luckau_weihnachtsmarkt_vom_toepferbrunnen_bis_zum_marktp
+ latz.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dampfzug zum Neuzeller Märchenadventsmarkt
+DTSTART;TZID=Europe/Berlin:20241208T080000
+DTEND;TZID=Europe/Berlin:20241208T100000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ dampfzug_zum_neuzeller_maerchenadventsmarkt_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weihnachtsrevue 2024 - Show 1 - unsere Kids und Teens
+DTSTART;TZID=Europe/Berlin:20241208T150000
+DTEND;TZID=Europe/Berlin:20241208T170000
+LOCATION:Schlossberg Luckau\, Nordpromenade 20\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ weihnachtsrevue_2024-show_1-unsere_kids_und_teens.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chorkonzert "Jubelt laut\,  singt ohne Ende"
+DTSTART;TZID=Europe/Berlin:20241208T160000
+DTEND;TZID=Europe/Berlin:20241208T180000
+LOCATION:Kirche Gießmannsdorf\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ chorkonzert_jubelt_laut_singt_ohne_ende-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesung aus dem Zauberberg
+DTSTART;TZID=Europe/Berlin:20241208T160000
+DTEND;TZID=Europe/Berlin:20241208T170000
+LOCATION:Gutshaus Pitschen\, 15926 Heideblick
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ lesung_aus_dem_zauberberg.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaziergang: Raus in die Kälte
+DTSTART;TZID=Europe/Berlin:20241211T110000
+DTEND;TZID=Europe/Berlin:20241211T130000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spaziergang_raus_in_die_kaelte-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241213T190000
+DTEND;TZID=Europe/Berlin:20241213T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-5.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanninchens Wilde Weihnacht
+DTSTART;TZID=Europe/Berlin:20241214T080000
+DTEND;TZID=Europe/Berlin:20241214T100000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wanninchens_wilde_weihnacht-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dampfzug zum Technikmuseum Berlin
+DTSTART;TZID=Europe/Berlin:20241214T080000
+DTEND;TZID=Europe/Berlin:20241214T100000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ dampfzug_zum_technikmuseum_berlin.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanninchens Wilde Weihnacht
+DTSTART;TZID=Europe/Berlin:20241214T100000
+DTEND;TZID=Europe/Berlin:20241214T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ wanninchens_wilde_weihnacht-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terpter Weihnachtsmarkt am 14.12.2024
+DTSTART;TZID=Europe/Berlin:20241214T140000
+DTEND;TZID=Europe/Berlin:20241214T160000
+LOCATION:15926 Luckau\, OT Terpt
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ terpter-weihnachtsmarkt-am-14-12-2024.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20241214T190000
+DTEND;TZID=Europe/Berlin:20241214T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-6.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O Radiant Dawn - Adventskonzert mit dem Kammerchor Wernigerode
+DTSTART;TZID=Europe/Berlin:20241215T150000
+DTEND;TZID=Europe/Berlin:20241215T170000
+LOCATION:Kulturkirche Luckau (Nonnengasse 1\, 15926 Luckau)
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ o_radiant_dawn-adventskonzert_mit_dem_kammerchor_wernigerode.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventsliedersingen
+DTSTART;TZID=Europe/Berlin:20241215T170000
+DTEND;TZID=Europe/Berlin:20241215T190000
+LOCATION:Nikolaikirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ adventsliedersingen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bergparade in Annaberg Buchholz
+DTSTART;TZID=Europe/Berlin:20241222T070000
+DTEND;TZID=Europe/Berlin:20241222T090000
+LOCATION:Bahnhof Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ bergparade_in_annaberg_buchholz.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chorkonzert "Jubelt laut\,  singt ohne Ende"
+DTSTART;TZID=Europe/Berlin:20241222T150000
+DTEND;TZID=Europe/Berlin:20241222T170000
+LOCATION:Kulturkirche Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ chorkonzert_jubelt_laut_singt_ohne_ende-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Shawue Weihnachtskonzert
+DTSTART;TZID=Europe/Berlin:20241226T200000
+DTEND;TZID=Europe/Berlin:20241226T220000
+LOCATION:"Schloßberg" Luckau Nordpronenade 20
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ das_shawue_weihnachtskonzert.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modellbahnwochenende im Bahnbetriebswerk Luckau
+DTSTART;TZID=Europe/Berlin:20241228T100000
+DTEND;TZID=Europe/Berlin:20241228T120000
+LOCATION:Bahnbetriebswerk Luckau\, Bersteweg 25\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ modellbahnwochenende_im_bahnbetriebswerk_luckau.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modellbahnwochenende im Bahnbetriebswerk Luckau
+DTSTART;TZID=Europe/Berlin:20241229T100000
+DTEND;TZID=Europe/Berlin:20241229T120000
+LOCATION:Bahnbetriebswerk Luckau gGmbH
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ modellbahnwochenende_im_bahnbetriebswerk_luckau_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spritzig am Gaumen\, toxisch im Abgang (Kriminalkomödie)
+DTSTART;TZID=Europe/Berlin:20250103T190000
+DTEND;TZID=Europe/Berlin:20250103T214500
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spritzig_am_gaumen_toxisch_im_abgang_kriminalkomoedie_-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spritzig am Gaumen\, toxisch im Abgang (Kriminalkomödie)
+DTSTART;TZID=Europe/Berlin:20250104T190000
+DTEND;TZID=Europe/Berlin:20250104T214500
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spritzig_am_gaumen_toxisch_im_abgang_kriminalkomoedie_-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20250110T190000
+DTEND;TZID=Europe/Berlin:20250110T223000
+LOCATION:Gasthaus Raunigk\, 15926 Heideblick OT Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-7.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20250111T190000
+DTEND;TZID=Europe/Berlin:20250111T223000
+LOCATION:Gasthaus Raunigk\, 15926 Heideblick OT Gehren
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-8.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20250117T130000
+DTEND;TZID=Europe/Berlin:20250117T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-5.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20250117T190000
+DTEND;TZID=Europe/Berlin:20250117T223000
+LOCATION:Landhaus Duben\, 15926 Luckau OT Duben
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-9.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Erwachen im Naturschutzgebiet Borcheltsbusch
+DTSTART;TZID=Europe/Berlin:20250118T073000
+DTEND;TZID=Europe/Berlin:20250118T090000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-erwachen_im_naturschutzgebiet_borcheltsbusch.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorbische Landschaften
+DTSTART;TZID=Europe/Berlin:20250119T143000
+DTEND;TZID=Europe/Berlin:20250119T163000
+LOCATION:Kulturkirche Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ sorbische_landschaften.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neujahrskonzert 2025 "FarbenFroh" des Orchesters "grenzenlos"
+DTSTART;TZID=Europe/Berlin:20250119T160000
+DTEND;TZID=Europe/Berlin:20250119T180000
+LOCATION:Schlossberg Luckau\, Südpromenade 16\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ neujahrskonzert_2025_farbenfroh_des_orchesters_grenzenlos.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neujahrskonzert 2025 "FarbenFroh"
+DTSTART;TZID=Europe/Berlin:20250119T160000
+DTEND;TZID=Europe/Berlin:20250119T180000
+LOCATION:Schlossberg Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ neujahrskonzert_2025_farbenfroh.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20250124T130000
+DTEND;TZID=Europe/Berlin:20250124T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-6.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falsche Schlange (Thriller von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20250124T190000
+DTEND;TZID=Europe/Berlin:20250124T210000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ falsche_schlange_thriller_von_alan_ayckbourn_-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20250125T130000
+DTEND;TZID=Europe/Berlin:20250125T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-7.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falsche Schlange (Thriller von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20250125T190000
+DTEND;TZID=Europe/Berlin:20250125T210000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ falsche_schlange_thriller_von_alan_ayckbourn_-4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIMELESS25 the reason why
+DTSTART;TZID=Europe/Berlin:20250125T193000
+DTEND;TZID=Europe/Berlin:20250125T213000
+LOCATION:Schlossberg Luckau\, Nordpromenade 20\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ timeless25_the_reason_why_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20250131T130000
+DTEND;TZID=Europe/Berlin:20250131T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-8.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ErlebnisTour: Waldspaziergang "Winterträume"
+DTSTART;TZID=Europe/Berlin:20250202T150000
+DTEND;TZID=Europe/Berlin:20250202T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ erlebnistour_waldspaziergang_wintertraeume.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natur-Erlebnistag "Wintervögel - satt und rund"
+DTSTART;TZID=Europe/Berlin:20250205T120000
+DTEND;TZID=Europe/Berlin:20250205T150000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ natur-erlebnistag_wintervoegel_-_satt_und_rund.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20250206T130000
+DTEND;TZID=Europe/Berlin:20250206T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-9.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Safari
+DTSTART;TZID=Europe/Berlin:20250207T130000
+DTEND;TZID=Europe/Berlin:20250207T160000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-safari-10.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singschwan-Erwachen
+DTSTART;TZID=Europe/Berlin:20250208T070000
+DTEND;TZID=Europe/Berlin:20250208T083000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ singschwan-erwachen-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaziergang: Liebe im Tierreich
+DTSTART;TZID=Europe/Berlin:20250214T150000
+DTEND;TZID=Europe/Berlin:20250214T170000
+LOCATION:Heinz Sielmann Natur-Erlebniszentrum Wanninchen\, 15926 Luckau OT
+  Görlsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ spaziergang_liebe_im_tierreich.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20250228T190000
+DTEND;TZID=Europe/Berlin:20250228T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-10.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20250301T190000
+DTEND;TZID=Europe/Berlin:20250301T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-11.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verrückte haben's auch nicht leicht (Komödie)
+DTSTART;TZID=Europe/Berlin:20250307T190000
+DTEND;TZID=Europe/Berlin:20250307T220000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ verrueckte_habens_auch_nicht_leicht_komoedie_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verrückte haben's auch nicht leicht (Komödie)
+DTSTART;TZID=Europe/Berlin:20250308T190000
+DTEND;TZID=Europe/Berlin:20250308T220000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ verrueckte_habens_auch_nicht_leicht_komoedie_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verrückte haben's auch nicht leicht (Komödie)
+DTSTART;TZID=Europe/Berlin:20250309T160000
+DTEND;TZID=Europe/Berlin:20250309T190000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ verrueckte_habens_auch_nicht_leicht_komoedie_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20250314T190000
+DTEND;TZID=Europe/Berlin:20250314T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-12.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KRIMIDINNER  ... Und Mord bestimmt das Titelblatt
+DTSTART;TZID=Europe/Berlin:20250315T190000
+DTEND;TZID=Europe/Berlin:20250315T223000
+LOCATION:Gasthof Stadt Berlin\, 15926 Luckau OT Wittmannsdorf
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ krimidinner_und_mord_bestimmt_das_titelblatt-13.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30.03.2025  "Lucki" - Kinder- und Babysachenflohmarkt Frühling im
+  Laga-Park
+DTSTART;TZID=Europe/Berlin:20250330T090000
+DTEND;TZID=Europe/Berlin:20250330T130000
+LOCATION:Laga-Park\, 15926 Luckau\, Verkaufsfläche: Schützenweg
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ 13-10-2024-lucki-kinder-und-babysachenflohmarkt-herbst-im-laga-park.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verrückte haben's auch nicht leicht (Komödie)
+DTSTART;TZID=Europe/Berlin:20250404T190000
+DTEND;TZID=Europe/Berlin:20250404T220000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ verrueckte_habens_auch_nicht_leicht_komoedie_-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verrückte haben's auch nicht leicht (Komödie)
+DTSTART;TZID=Europe/Berlin:20250405T190000
+DTEND;TZID=Europe/Berlin:20250405T220000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ verrueckte_habens_auch_nicht_leicht_komoedie_-3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ranger-Tour: Luckauer Frühlingserwachen
+DTSTART;TZID=Europe/Berlin:20250412T060000
+DTEND;TZID=Europe/Berlin:20250412T090000
+LOCATION:LAGA Parkplatz\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ranger-tour_luckauer_fruehlingserwachen.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulpenfest in Luckau
+DTSTART;TZID=Europe/Berlin:20250413T103000
+DTEND;TZID=Europe/Berlin:20250413T180000
+LOCATION:Stadtpark Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tulpenfest_in_luckau-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ranger-Tour: Luckauer Frühlingserwachen
+DTSTART;TZID=Europe/Berlin:20250426T053000
+DTEND;TZID=Europe/Berlin:20250426T083000
+LOCATION:LAGA Parkplatz\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ranger-tour_luckauer_fruehlingserwachen-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niederlausitzer Leistungsschau Luckau
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+LOCATION:Landesgartenschau Luckau 2000 gGmbH\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ niederlausitzer_leistungsschau_luckau-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag des offenen Ateliers
+DTSTART;TZID=Europe/Berlin:20250503T140000
+DTEND;TZID=Europe/Berlin:20250503T160000
+LOCATION:Am Anger 6A 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_des_offenen_ateliers.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag des offenen Atelier
+DTSTART;TZID=Europe/Berlin:20250504T110000
+DTEND;TZID=Europe/Berlin:20250504T130000
+LOCATION:Am Anger 6A\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ tag_des_offenen_atelier.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ranger-Tour: Alle Vögel sind schon da
+DTSTART;TZID=Europe/Berlin:20250510T060000
+DTEND;TZID=Europe/Berlin:20250510T100000
+LOCATION:Parkplatz Bhf. Uckro\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ ranger-tour_alle_voegel_sind_schon_da.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aal\, Moorfrosch und Roteiche...
+DTSTART;TZID=Europe/Berlin:20250511T100000
+DTEND;TZID=Europe/Berlin:20250511T160000
+LOCATION:Höllberghof\, 15926 Langengrassau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ aal_moorfrosch_und_roteiche_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crinitzer Geschichten
+DTSTART;TZID=Europe/Berlin:20250516T190000
+DTEND;TZID=Europe/Berlin:20250516T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ crinitzer_geschichten.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTour: Wildkräutertour
+DTSTART;TZID=Europe/Berlin:20250517T093000
+DTEND;TZID=Europe/Berlin:20250517T120000
+LOCATION:Feuerwehrhaus\, 15926 Luckau/ Bergen
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertour_wildkraeutertour-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crinitzer Geschichten
+DTSTART;TZID=Europe/Berlin:20250517T190000
+DTEND;TZID=Europe/Berlin:20250517T213000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ crinitzer_geschichten-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rockband "Karussell" live in der Sankt-Nikolai-Kirche
+DTSTART;TZID=Europe/Berlin:20250523T200000
+DTEND;TZID=Europe/Berlin:20250523T220000
+LOCATION:Sankt-Nikolai-Kirche\, Kirchplatz\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rockband-karussell-live-in-der-sankt-nikolai-kirche.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RangerTour: Wildkräutertour
+DTSTART;TZID=Europe/Berlin:20250524T093000
+DTEND;TZID=Europe/Berlin:20250524T120000
+LOCATION:Feuerwehrhaus\, 15926 Luckau/ Bergen
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ rangertour_wildkraeutertour-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ImproPur -Open Air- (Improvisationstheaterabend)
+DTSTART;TZID=Europe/Berlin:20250524T190000
+DTEND;TZID=Europe/Berlin:20250524T220000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ impropur_-open_air-_improvisationstheaterabend_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Zauberer von Oz (Kinderstück)
+DTSTART;TZID=Europe/Berlin:20250531T150000
+DTEND;TZID=Europe/Berlin:20250531T170000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ der_zauberer_von_oz_kinderstueck_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Zauberer von Oz (Kinderstück)
+DTSTART;TZID=Europe/Berlin:20250601T150000
+DTEND;TZID=Europe/Berlin:20250601T170000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ der_zauberer_von_oz_kinderstueck_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ImproPur -Open Air- (Improvisationstheaterabend)
+DTSTART;TZID=Europe/Berlin:20250621T190000
+DTEND;TZID=Europe/Berlin:20250621T220000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ impropur_-open_air-_improvisationstheaterabend_-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TheaterLoge Luckau: Tag der offenen Bühne
+DTSTART;TZID=Europe/Berlin:20250705T100000
+DTEND;TZID=Europe/Berlin:20250705T170000
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ theaterloge_luckau_tag_der_offenen_buehne.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luckauer Kahnnacht 2025
+DTSTART;TZID=Europe/Berlin:20250712T193000
+DTEND;TZID=Europe/Berlin:20250712T235500
+LOCATION:Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ luckauer_kahnnacht_2025.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konfusionen (Komödie von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20250912T190000
+DTEND;TZID=Europe/Berlin:20250912T214500
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konfusionen_komoedie_von_alan_ayckbourn_.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konfusionen (Komödie von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20250913T190000
+DTEND;TZID=Europe/Berlin:20250913T214500
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konfusionen_komoedie_von_alan_ayckbourn_-0.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konfusionen (Komödie von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20250919T190000
+DTEND;TZID=Europe/Berlin:20250919T214500
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konfusionen_komoedie_von_alan_ayckbourn_-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konfusionen (Komödie von Alan Ayckbourn)
+DTSTART;TZID=Europe/Berlin:20250920T190000
+DTEND;TZID=Europe/Berlin:20250920T214500
+LOCATION:TheaterLoge Luckau\, 15926 Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ konfusionen_komoedie_von_alan_ayckbourn_-2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Shawue Weihnachtskonzert
+DTSTART;TZID=Europe/Berlin:20251226T200000
+DTEND;TZID=Europe/Berlin:20251226T220000
+LOCATION:Schlossberg Luckau
+URL:https://luckau.de/de/kultur-stadtleben/veranstaltungskalender/artikel-
+ das_shawue_weihnachtskonzert_1.html
+END:VEVENT
+END:VCALENDAR
