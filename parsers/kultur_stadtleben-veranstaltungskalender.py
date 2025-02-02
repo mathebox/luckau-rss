@@ -42,7 +42,10 @@ def parse_page(cal, url):
         title = headline.getText().strip()
         description = article.select('.eventInfo')[0].contents[1].getText().strip()
         location = article.select('.eventData .location')[0].getText().strip()
-        link = f"https://luckau.de{headline.select('a')[0]['href']}"
+        if article_link := headline.select('a'):
+            link = f"https://luckau.de{article_link[0]['href']}"
+        else:
+            link = url
 
         datetime_elements = article.select('.eventData .dateTimeTxt')
         if len(datetime_elements) > 0:
