@@ -66,19 +66,22 @@ def parse_page(cal, url):
         if has_end_date:
             date_to_string = replace_all(article.select('.eventData .date .dateToTxt')[0].getText().strip(), date_replace_mapping)
 
-        match (has_end_date, has_end_time):
-            case (True, _):
-                # use start and end date. all day event
-                date_from = datetime.strptime(date_from_string, '%d. %m %Y').replace(tzinfo=tzinfo).date()
-                date_to = datetime.strptime(date_to_string, '%d. %m %Y').replace(tzinfo=tzinfo).date()
-            case (False, True):
-                # use start date as end date. use start and end time
-                date_from = datetime.strptime(f"{date_from_string} {time_from_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo)
-                date_to = datetime.strptime(f"{date_from_string} {time_to_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo)
-            case (False, False):
-                # use start date as end date. use start time + 2h
-                date_from = datetime.strptime(f"{date_from_string} {time_from_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo)
-                date_to = datetime.strptime(f"{date_from_string} {time_from_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo) + timedelta(hours=2)
+        try:
+            match (has_end_date, has_end_time):
+                case (True, _):
+                    # use start and end date. all day event
+                    date_from = datetime.strptime(date_from_string, '%d. %m %Y').replace(tzinfo=tzinfo).date()
+                    date_to = datetime.strptime(date_to_string, '%d. %m %Y').replace(tzinfo=tzinfo).date()
+                case (False, True):
+                    # use start date as end date. use start and end time
+                    date_from = datetime.strptime(f"{date_from_string} {time_from_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo)
+                    date_to = datetime.strptime(f"{date_from_string} {time_to_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo)
+                case (False, False):
+                    # use start date as end date. use start time + 2h
+                    date_from = datetime.strptime(f"{date_from_string} {time_from_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo)
+                    date_to = datetime.strptime(f"{date_from_string} {time_from_string}", '%d. %m %Y %H:%M').replace(tzinfo=tzinfo) + timedelta(hours=2)
+        except ValueError:
+            continue
 
         event = Event()
         event.add('summary', title)
