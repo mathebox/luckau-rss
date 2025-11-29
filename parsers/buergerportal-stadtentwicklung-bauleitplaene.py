@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 
 def parse():
-    url = 'https://luckau.de/de/buergerportal/stadtentwicklung/bauleitplaene.html'
+    url = 'https://luckau.de/de/buergerportal/stadtentwicklung/bauleitplaene/bebauungsplaene.html'
     r = requests.get(url)
     soup = BeautifulSoup(r.text, 'html.parser')
 
