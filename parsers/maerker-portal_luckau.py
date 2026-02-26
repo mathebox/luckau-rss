@@ -1,11 +1,13 @@
-from bs4 import BeautifulSoup
-from datetime import datetime, timezone
+from datetime import datetime
 from feedgen.feed import FeedGenerator
 from pathlib import Path
 import requests
 
 def parse():
-    base_url = 'https://maerker.brandenburg.de/bb/luckau'
+    base_url = 'https://maerker.brandenburg.de/maerker/de/#/kommune/luckau/'
+    js_url = 'https://maerker-buerger.brandenburg.de/maerker-brandenburg.js'
+    local_authority_luckau = 3
+    issues_url = f'https://maerker-redaktion.brandenburg.de/api/issues?localAuthority={local_authority_luckau}'
 
     fg = FeedGenerator()
     fg.id(base_url)
@@ -14,31 +16,24 @@ def parse():
     fg.language('de')
     fg.description('Meldungen auf dem Maerker Portal für die Stadt Luckau')
 
+    # Find Bearer token
+    r = requests.get(js_url)
+    part_2 = r.text.split('apiToken: $B("')[1]
+    bearer_token = part_2.split('"')[0]
+    auth_header_value = f'Bearer {bearer_token}'
+
     try:
-        for skip_items in range(0, 30, 5):
-            url = base_url + f"?skip={skip_items}"
-            r = requests.get(url)
-            soup = BeautifulSoup(r.text, 'html.parser')
-
-            for article in soup.find_all('article'):
-                container = article.find('div', class_='hinweis')
-
-                content_container = container.find('div', class_='eightcol')
-                entry_title = content_container.find('h3').getText().strip()
-                
-                id_container = content_container.find('p', class_='small')
-                for strong in id_container.find_all('strong'):
-                    if strong.getText() == 'ID:':
-                        entry_id = strong.next_sibling.getText().strip()
-                entry_url = f"https://maerker.brandenburg.de/bb/luckau?_id={entry_id}"
-
-                description = id_container.next_sibling.getText().strip()
-
-                metacontent_container = container.find('div', class_='last')
-                pub_date_str = metacontent_container.find('strong').getText().strip()
-                pub_date = datetime.strptime(pub_date_str, '%d.%m.%Y, %H:%M Uhr').replace(tzinfo=timezone.utc)
-
-                location = metacontent_container.find('p').contents[0].getText().strip()
+        for page in range(1, 11):
+            url = issues_url + f"&page={page}"
+            r = requests.get(url, headers={
+                "Authorization": auth_header_value
+            })
+            for item in r.json().get('data'):
+                location = item['district']
+                entry_title = item['title']
+                entry_url = f"https://maerker.brandenburg.de/maerker/de/#/meldung/{item['id']}"
+                pub_date = item['createdAt']
+                description = item['description']
 
                 if location == 'Luckau':
                     fe = fg.add_entry()
@@ -60,7 +55,7 @@ def parse():
         fe = fg.add_entry()
         fe.id(f"error-{datetime.now().isoformat()}")
         fe.title('Error parsing website')
-        fe.link(href=url)    
+        fe.link(href=url)  
 
     current_file_path = Path(__file__).parent.resolve()
     rss_path = current_file_path.parent / 'generated-rss'
