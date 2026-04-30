@@ -29,13 +29,13 @@ def parse():
                 "Authorization": auth_header_value
             })
             for item in r.json().get('data'):
-                location = item['district']
-                entry_title = item['title']
+                district = item.get('district', '')
+                entry_title = item.get('title', 'unknown')
                 entry_url = f"https://maerker.brandenburg.de/maerker/de/#/meldung/{item['id']}"
-                pub_date = item['createdAt']
-                description = item['description']
+                pub_date = item.get('createdAt')
+                description = item.get('description', '')
 
-                if location == 'Luckau':
+                if district in ['Luckau', '']:
                     fe = fg.add_entry()
                     fe.id(entry_url)
                     fe.title(entry_title)
