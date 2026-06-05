@@ -33,7 +33,9 @@ def parse():
                 entry_title = item.get('title', 'unknown')
                 entry_url = f"https://maerker.brandenburg.de/maerker/de/#/meldung/{item['id']}"
                 pub_date = item.get('createdAt')
-                description = item.get('description', '')
+                request = item.get('description', '')
+                answer = item.get('statusHint', '')
+                description = '\n\n'.join([request, answer])
 
                 if district in ['Luckau', '']:
                     fe = fg.add_entry()
@@ -41,7 +43,7 @@ def parse():
                     fe.title(entry_title)
                     fe.link(href=entry_url)
                     fe.pubDate(pub_date)
-                    fe.description(description)
+                    fe.description(description.replace('\n', '<br>'))
                     print("Added entry \n" \
                           f"> URL: {entry_url} \n" \
                           f"> title: {entry_title} \n" \
