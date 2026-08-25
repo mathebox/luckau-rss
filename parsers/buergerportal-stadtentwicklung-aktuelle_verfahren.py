@@ -34,11 +34,11 @@ def parse():
         print('Error while creating rss feed')
         print('> ', e)
 
-    if len(fg.entry()) < 1:
-        fe = fg.add_entry()
-        fe.id(f"error-{datetime.now().isoformat()}")
-        fe.title('Error parsing website')
-        fe.link(href=url)
+    # if len(fg.entry()) < 1:
+    #     fe = fg.add_entry()
+    #     fe.id(f"error-{datetime.now().isoformat()}")
+    #     fe.title('Error parsing website')
+    #     fe.link(href=url)
 
     current_file_path = Path(__file__).parent.resolve()
     rss_path = current_file_path.parent / 'generated-rss'
